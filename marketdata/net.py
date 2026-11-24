@@ -47,7 +47,11 @@ def get_json(url, params=None, **kw):
     body = get(url, params, **kw)
     if not body.strip():
         raise NoData(redact(build_url(url, params)))
-    return json.loads(body)
+    try:
+        return json.loads(body)
+    except json.JSONDecodeError:
+        snippet = body[:300].decode("utf-8", "replace").replace("\n", " ")
+        raise RuntimeError(f"Not JSON from {redact(build_url(url, params))}: {snippet}") from None
 
 
 def redact(url):
