@@ -1,0 +1,22 @@
+{
+ "news": {
+  "at": "2026-11-24T22:40:49Z",
+  "ok": true,
+  "warnings": [
+   "Rubber News: HTTP 403 for https://www.rubbernews.com/arc/outboundfeeds/rss/?outputType=xml",
+   "Tire Business: HTTP 403 for https://www.tirebusiness.com/arc/outboundfeeds/rss/?outputType=xml",
+   "European Rubber Journal: 404 https://www.european-rubber-journal.com/feed/"
+  ]
+ },
+ "trade": {
+  "at": "2026-11-24T22:40:52Z",
+  "error": "4004000000: Expecting value: line 1 column 1 (char 0); 4003000000: Expecting value: line 1 column 1 (char 0); 4001210000: Expecting value: line 1 column 1 (char 0); 4001220000: Expecting value: line 1 column 1 (char 0); 4002190000: Expecting value: line 1 column 1 (char 0); 4002200000: Expecting value: line 1 column 1 (char 0); 4005100000: Expecting value: line 1 column 1 (char 0); 2803000010: Expecting value: line 1 column 1 (char 0); 2811221000: Expecting value: line 1 column 1 (char 0); 2811225000: Expecting value: line 1 column 1 (char 0); 401110: Expecting value: line 1 column 1 (char 0); 401120: Expecting value: line 1 column 1 (char 0); 401170: Expecting value: line 1 column 1 (char 0); 401180: Expecting value: line 1 column 1 (char 0); 401220: Expecting value: line 1 column 1 (char 0); 401211: Expecting value: line 1 column 1 (char 0); 401212: Expecting value: line 1 column 1 (char 0); 401213: Expecting value: line 1 column 1 (char 0); 401219: Expecting value: line 1 column 1 (char 0)",
+  "last_ok": null,
+  "ok": false
+ },
+ "worldbank": {
+  "at": "2026-11-24T22:40:49Z",
+  "ok": true,
+  "warnings": []
+ }
+}
