@@ -1,0 +1,21 @@
+<!-- title: Trade detail | SBR Compound -->
+<!-- desc: Monthly U.S. trade history and top partner countries for one HTS code. -->
+<!-- nav: markets -->
+<!-- scripts: /assets/chart.js /assets/trade.js -->
+<main class="wrap">
+  <p class="small"><a href="/markets.html">Back to Markets</a></p>
+  <h1 id="title">Trade detail</h1>
+  <p class="muted" id="sub"></p>
+
+  <div class="grid2">
+    <section class="chart-block"><div class="chart-head"><h3>Monthly volume</h3></div><div id="qty"></div></section>
+    <section class="chart-block"><div class="chart-head"><h3>Unit value</h3></div><div id="uv"></div></section>
+  </div>
+
+  <h2 id="partners-h">Top partner countries</h2>
+  <div class="table-scroll"><table>
+    <thead><tr><th>Country</th><th class="num">Value</th><th class="num">Volume</th><th class="num">Share of value</th></tr></thead>
+    <tbody id="partners"><tr><td colspan="4" class="muted">Loading…</td></tr></tbody>
+  </table></div>
+  <p class="small muted">Source: U.S. Census Bureau. Recent months may be revised.</p>
+</main>

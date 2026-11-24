@@ -1,0 +1,67 @@
+name: Update dashboard data
+
+# News every 3 hours, oil and currencies daily, trade and World Bank weekly.
+# Each run commits only if the data changed; Cloudflare Pages redeploys on each commit.
+on:
+  schedule:
+    - cron: "11 */3 * * *"   # news
+    - cron: "40 22 * * 1-5"  # oil, fx
+    - cron: "25 13 * * 1"    # trade, worldbank
+  workflow_dispatch:
+    inputs:
+      jobs:
+        description: "Jobs to run (news oil fx worldbank trade, or all)"
+        default: "all"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dashboard-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install openpyxl==3.1.5
+
+      - name: Pick jobs
+        id: pick
+        run: |
+          case "${{ github.event.schedule }}" in
+            "11 */3 * * *")  echo "jobs=news" >> "$GITHUB_OUTPUT" ;;
+            "40 22 * * 1-5") echo "jobs=oil fx" >> "$GITHUB_OUTPUT" ;;
+            "25 13 * * 1")   echo "jobs=trade worldbank" >> "$GITHUB_OUTPUT" ;;
+            *)               echo "jobs=${{ github.event.inputs.jobs || 'all' }}" >> "$GITHUB_OUTPUT" ;;
+          esac
+
+      - name: Fetch
+        id: fetch
+        env:
+          CENSUS_API_KEY: ${{ secrets.CENSUS_API_KEY }}
+          EIA_API_KEY: ${{ secrets.EIA_API_KEY }}
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+        run: python -m pipelines.run ${{ steps.pick.outputs.jobs }} || echo "failed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Build site data
+        run: python -m pipelines.build
+
+      - name: Commit
+        run: |
+          git config user.name "data-bot"
+          git config user.email "data-bot@users.noreply.github.com"
+          git add data site/data
+          git diff --cached --quiet || git commit -m "Data update: ${{ steps.pick.outputs.jobs }}"
+          git push
+
+      - name: Report failure
+        if: steps.fetch.outputs.failed == 'true'
+        run: |
+          cat data/raw/status.json
+          exit 1

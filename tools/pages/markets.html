@@ -1,0 +1,21 @@
+<!-- title: Markets | SBR Compound -->
+<!-- desc: Natural rubber and crude oil prices, and U.S. trade in rubber, fillers and tires by HTS code. -->
+<!-- scripts: /assets/chart.js /assets/markets.js -->
+<main class="wrap">
+  <h1>Markets</h1>
+  <p class="banner" id="banner">Loading…</p>
+
+  <h2>Prices</h2>
+  <div class="grid2" id="prices">
+    <section class="chart-block" data-p="rubber.tsr20" data-unit="$/kg" data-name="Natural rubber, TSR20"></section>
+    <section class="chart-block" data-p="rubber.rss3" data-unit="$/kg" data-name="Natural rubber, RSS3"></section>
+    <section class="chart-block" data-p="oil.brent" data-unit="$/bbl" data-name="Brent crude"></section>
+    <section class="chart-block" data-p="oil.wti" data-unit="$/bbl" data-name="WTI crude"></section>
+  </div>
+  <p class="small muted">Rubber: World Bank monthly prices (SICOM). Oil: U.S. Energy Information Administration (EIA) daily spot prices.</p>
+
+  <h2>U.S. trade</h2>
+  <p class="muted">Monthly U.S. imports and exports by HTS code. Volume is compared with the average of the previous 12 months. Select a row for its history and trading partners.</p>
+  <div id="trade"></div>
+  <p class="small muted">Source: U.S. Census Bureau. Unit value is total value divided by quantity, so it moves with the mix of material shipped as well as with price.</p>
+</main>

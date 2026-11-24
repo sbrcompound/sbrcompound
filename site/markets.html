@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Markets | SBR Compound</title>
+<meta name="description" content="Natural rubber and crude oil prices, and U.S. trade in rubber, fillers and tires by HTS code.">
+<meta name="theme-color" content="#262c29">
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="icon" href="/assets/icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/assets/icons/icon-180.png">
+<link rel="preload" href="/assets/fonts/archivo-latin-wdth-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/site.css">
+</head>
+<body>
+<header class="topbar"><div class="wrap">
+  <a class="logo" href="/"><svg width="30" height="30" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="6" fill="#2d6a43"/><path d="M8 11h16M8 16h16M8 21h11" stroke="#eef2ef" stroke-width="3" stroke-linecap="round"/></svg>SBR Compound</a>
+  <nav class="topnav" aria-label="Main"><ul><li><a href="/">Outlook</a></li><li><a href="/markets.html" aria-current="page">Markets</a></li><li><a href="/news.html">News</a></li><li><a href="/alerts.html">Alerts</a></li></ul></nav>
+</div></header>
+<main class="wrap">
+  <h1>Markets</h1>
+  <p class="banner" id="banner">Loading…</p>
+
+  <h2>Prices</h2>
+  <div class="grid2" id="prices">
+    <section class="chart-block" data-p="rubber.tsr20" data-unit="$/kg" data-name="Natural rubber, TSR20"></section>
+    <section class="chart-block" data-p="rubber.rss3" data-unit="$/kg" data-name="Natural rubber, RSS3"></section>
+    <section class="chart-block" data-p="oil.brent" data-unit="$/bbl" data-name="Brent crude"></section>
+    <section class="chart-block" data-p="oil.wti" data-unit="$/bbl" data-name="WTI crude"></section>
+  </div>
+  <p class="small muted">Rubber: World Bank monthly prices (SICOM). Oil: U.S. Energy Information Administration (EIA) daily spot prices.</p>
+
+  <h2>U.S. trade</h2>
+  <p class="muted">Monthly U.S. imports and exports by HTS code. Volume is compared with the average of the previous 12 months. Select a row for its history and trading partners.</p>
+  <div id="trade"></div>
+  <p class="small muted">Source: U.S. Census Bureau. Unit value is total value divided by quantity, so it moves with the mix of material shipped as well as with price.</p>
+</main>
+<footer class="site-footer"><div class="wrap">
+  <p>For information only. Not financial, legal or purchasing advice. Prices and trade figures come from public sources (U.S. Census Bureau, World Bank, U.S. Energy Information Administration, Federal Reserve, Central Bank of the Republic of Türkiye) and may be delayed or revised.</p>
+  <p>SBR Compound is sponsored by <a href="https://www.carolinarecycle.com">Carolina Recycle Partners</a>, which buys and sells rubber compound. <a href="/privacy.html">Privacy</a></p>
+</div></footer>
+<nav class="tabbar" aria-label="Main"><a href="/"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 15a8 8 0 0 1 16 0"/><path d="M12 15l4-5"/><circle cx="12" cy="15" r="1.4" fill="currentColor"/></svg>Outlook</a><a href="/markets.html" aria-current="page"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 18l5-6 4 3 7-9"/><path d="M4 20h16"/></svg>Markets</a><a href="/news.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="5" y="4" width="14" height="16" rx="2"/><path d="M9 9h6M9 13h6M9 17h3"/></svg>News</a><a href="/alerts.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 16V11a6 6 0 0 1 12 0v5l1.5 2h-15z"/><path d="M10 20a2 2 0 0 0 4 0"/></svg>Alerts</a></nav>
+<script src="/assets/app.js"></script>
+<script src="/assets/chart.js"></script>
+<script src="/assets/markets.js"></script>
+</body>
+</html>

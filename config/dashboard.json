@@ -1,0 +1,44 @@
+{
+  "index_url": "https://market-recycle.com/data/index.json",
+  "worldbank_monthly_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
+  "trade_history_months": 36,
+  "daily_history_days": 400,
+  "feeds": [
+    {"name": "Tyrepress", "url": "https://www.tyrepress.com/category/news/feed"},
+    {"name": "Rubber News", "url": "https://www.rubbernews.com/arc/outboundfeeds/rss/?outputType=xml"},
+    {"name": "Tire Business", "url": "https://www.tirebusiness.com/arc/outboundfeeds/rss/?outputType=xml"},
+    {"name": "Recycling Today", "url": "https://www.recyclingtoday.com/rss/"},
+    {"name": "Rubber Journal Asia", "url": "https://rubberjournalasia.com/feed/"},
+    {"name": "European Rubber Journal", "url": "https://www.european-rubber-journal.com/feed/"}
+  ],
+  "fx": {
+    "INR": {"country": "India"},
+    "TRY": {"country": "Turkey"},
+    "BRL": {"country": "Brazil"},
+    "THB": {"country": "Thailand"}
+  },
+  "trade_groups": [
+    {"name": "My market", "lines": [
+      {"id": "scrap-4004", "label": "Rubber waste, parings and scrap", "hts": "4004.00.00", "flow": "exports", "codes": ["4004000000"], "countries": true},
+      {"id": "reclaim-4003", "label": "Reclaimed rubber", "hts": "4003.00.00", "flow": "exports", "codes": ["4003000000"], "countries": true}
+    ]},
+    {"name": "Virgin rubber", "lines": [
+      {"id": "rss-4001-21", "label": "Natural rubber, smoked sheets", "hts": "4001.21.00", "flow": "imports", "codes": ["4001210000"], "countries": true},
+      {"id": "tsnr-4001-22", "label": "Natural rubber, TSNR", "hts": "4001.22.00", "flow": "imports", "codes": ["4001220000"], "countries": true},
+      {"id": "esbr-4002-19", "label": "SBR in bales", "hts": "4002.19.00", "flow": "imports", "codes": ["4002190000"], "countries": true},
+      {"id": "br-4002-20", "label": "Polybutadiene", "hts": "4002.20.00", "flow": "imports", "codes": ["4002200000"], "countries": true},
+      {"id": "compound-4005-10", "label": "Compounded rubber with carbon black or silica", "hts": "4005.10.00", "flow": "imports", "codes": ["4005100000"], "countries": true}
+    ]},
+    {"name": "Fillers and chemicals", "lines": [
+      {"id": "cb-2803", "label": "Carbon black", "hts": "2803.00.0010", "flow": "imports", "codes": ["2803000010"], "countries": true},
+      {"id": "silica-2811-22", "label": "Silica", "hts": "2811.22.10 and .50", "flow": "imports", "codes": ["2811221000", "2811225000"], "countries": true}
+    ]},
+    {"name": "Tires", "lines": [
+      {"id": "tires-passenger", "label": "New passenger car tires", "hts": "4011.10", "flow": "imports", "codes": ["401110"], "countries": true},
+      {"id": "tires-truck", "label": "New truck and bus tires", "hts": "4011.20", "flow": "imports", "codes": ["401120"], "countries": true},
+      {"id": "tires-ag-otr", "label": "New farm and construction tires", "hts": "4011.70 and .80", "flow": "imports", "codes": ["401170", "401180"], "countries": true},
+      {"id": "tires-used", "label": "Used tires", "hts": "4012.20", "flow": "imports", "codes": ["401220"], "countries": true},
+      {"id": "tires-retread", "label": "Retreaded tires", "hts": "4012.11 to .19", "flow": "imports", "codes": ["401211", "401212", "401213", "401219"], "countries": true}
+    ]}
+  ]
+}

@@ -1,0 +1,141 @@
+{
+ "factors": {
+  "energy": null,
+  "policy": null,
+  "scrap": null,
+  "virgin": null
+ },
+ "fx": {
+  "BRL": {
+   "country": "Brazil"
+  },
+  "INR": {
+   "country": "India"
+  },
+  "THB": {
+   "country": "Thailand"
+  },
+  "TRY": {
+   "country": "Turkey"
+  }
+ },
+ "generated": "2026-11-24T21:31:07Z",
+ "jobs": {},
+ "oil": {
+  "brent": null,
+  "wti": null
+ },
+ "rubber": {
+  "rss3": null,
+  "tsr20": null
+ },
+ "trade": {
+  "asof_month": null,
+  "groups": [
+   {
+    "lines": [
+     {
+      "flow": "exports",
+      "hts": "4004.00.00",
+      "id": "scrap-4004",
+      "label": "Rubber waste, parings and scrap"
+     },
+     {
+      "flow": "exports",
+      "hts": "4003.00.00",
+      "id": "reclaim-4003",
+      "label": "Reclaimed rubber"
+     }
+    ],
+    "name": "My market"
+   },
+   {
+    "lines": [
+     {
+      "flow": "imports",
+      "hts": "4001.21.00",
+      "id": "rss-4001-21",
+      "label": "Natural rubber, smoked sheets"
+     },
+     {
+      "flow": "imports",
+      "hts": "4001.22.00",
+      "id": "tsnr-4001-22",
+      "label": "Natural rubber, TSNR"
+     },
+     {
+      "flow": "imports",
+      "hts": "4002.19.00",
+      "id": "esbr-4002-19",
+      "label": "SBR in bales"
+     },
+     {
+      "flow": "imports",
+      "hts": "4002.20.00",
+      "id": "br-4002-20",
+      "label": "Polybutadiene"
+     },
+     {
+      "flow": "imports",
+      "hts": "4005.10.00",
+      "id": "compound-4005-10",
+      "label": "Compounded rubber with carbon black or silica"
+     }
+    ],
+    "name": "Virgin rubber"
+   },
+   {
+    "lines": [
+     {
+      "flow": "imports",
+      "hts": "2803.00.0010",
+      "id": "cb-2803",
+      "label": "Carbon black"
+     },
+     {
+      "flow": "imports",
+      "hts": "2811.22.10 and .50",
+      "id": "silica-2811-22",
+      "label": "Silica"
+     }
+    ],
+    "name": "Fillers and chemicals"
+   },
+   {
+    "lines": [
+     {
+      "flow": "imports",
+      "hts": "4011.10",
+      "id": "tires-passenger",
+      "label": "New passenger car tires"
+     },
+     {
+      "flow": "imports",
+      "hts": "4011.20",
+      "id": "tires-truck",
+      "label": "New truck and bus tires"
+     },
+     {
+      "flow": "imports",
+      "hts": "4011.70 and .80",
+      "id": "tires-ag-otr",
+      "label": "New farm and construction tires"
+     },
+     {
+      "flow": "imports",
+      "hts": "4012.20",
+      "id": "tires-used",
+      "label": "Used tires"
+     },
+     {
+      "flow": "imports",
+      "hts": "4012.11 to .19",
+      "id": "tires-retread",
+      "label": "Retreaded tires"
+     }
+    ],
+    "name": "Tires"
+   }
+  ]
+ }
+}
