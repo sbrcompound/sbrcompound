@@ -25,7 +25,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.first_try.outputs.page_url || steps.retry.outputs.page_url }}
     steps:
       - uses: actions/checkout@v5
         with:
@@ -34,5 +34,13 @@ jobs:
       - uses: actions/upload-pages-artifact@v5
         with:
           path: site
-      - id: deployment
+      # GitHub's artifact lookup is occasionally slow to see a fresh upload;
+      # wait and retry once rather than leave the site stale.
+      - id: first_try
+        continue-on-error: true
+        uses: actions/deploy-pages@v5
+      - if: steps.first_try.outcome == 'failure'
+        run: sleep 30
+      - id: retry
+        if: steps.first_try.outcome == 'failure'
         uses: actions/deploy-pages@v5
