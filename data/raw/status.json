@@ -1,10 +1,21 @@
 {
+ "fx": {
+  "at": "2026-11-24T23:46:37Z",
+  "error": "INR: FRED_API_KEY is not set; BRL: FRED_API_KEY is not set; THB: FRED_API_KEY is not set",
+  "last_ok": null,
+  "ok": false
+ },
  "news": {
   "at": "2026-11-24T22:42:29Z",
   "ok": true,
   "warnings": [
    "Recycling Today: mismatched tag: line 7, column 9"
   ]
+ },
+ "oil": {
+  "at": "2026-11-24T23:28:05Z",
+  "ok": true,
+  "warnings": []
  },
  "trade": {
   "at": "2026-11-24T22:42:20Z",
