@@ -42,7 +42,7 @@ def parse_tcmb(xml_bytes):
     return None
 
 
-def fetch_tcmb_range(start, end, have=None, pause=0.25, checkpoint=None, every=50):
+def fetch_tcmb_range(start, end, have=None, pause=1.0, checkpoint=None, every=50, max_misses=6):
     """Daily lira rates for dates not already held. Weekends and holidays have no bulletin.
 
     Newest dates first, so a run cut short still has the recent months; `checkpoint(have)`
@@ -50,7 +50,7 @@ def fetch_tcmb_range(start, end, have=None, pause=0.25, checkpoint=None, every=5
     have = dict(have or {})
     day = _dt.date.fromisoformat(end)
     stop = _dt.date.fromisoformat(start)
-    done = 0
+    done = misses = 0
     while day >= stop:
         iso = day.isoformat()
         if day.weekday() < 5 and iso not in have:
@@ -59,8 +59,18 @@ def fetch_tcmb_range(start, end, have=None, pause=0.25, checkpoint=None, every=5
                 rate = parse_tcmb(net.get(url, timeout=20, retries=1))
                 if rate:
                     have[iso] = rate
+                misses = 0
             except net.NoData:
-                pass
+                misses = 0
+            except Exception as err:
+                # TCMB throttles bursts. Skip the day; stop (keeping progress) if it keeps refusing.
+                misses += 1
+                print(f"  TCMB: {iso} skipped ({err})", flush=True)
+                if misses >= max_misses:
+                    if checkpoint:
+                        checkpoint(have)
+                    raise RuntimeError(f"TCMB refused {misses} requests in a row; stopped at {iso}, progress saved") from None
+                time.sleep(10 * misses)
             done += 1
             if checkpoint and done % every == 0:
                 checkpoint(have)
