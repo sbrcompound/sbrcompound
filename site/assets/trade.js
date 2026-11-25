@@ -34,11 +34,13 @@
     $("partners-h").textContent = "Top partner countries, " + month(d.latest_month);
     const tb = $("partners");
     tb.innerHTML = "";
-    if (!d.countries.length) tb.appendChild(h("tr", {}, "")).appendChild(h("td", { colspan: "4", class: "muted" }, "No country detail for this month."));
+    if (!d.countries.length) tb.appendChild(h("tr", {}, "")).appendChild(h("td", { colspan: "5", class: "muted" }, "No country detail for this month."));
     d.countries.forEach(c => {
       const tr = h("tr");
       tr.append(h("td", {}, c.name), h("td", { class: "num" }, "$" + big(c.value)),
-        h("td", { class: "num" }, c.qty > 0 ? big(c.qty) + (unit ? " " + unit : "") : "—"), h("td", { class: "num" }, c.share_pct.toFixed(1) + "%"));
+        h("td", { class: "num" }, c.qty > 0 ? big(c.qty) + (unit ? " " + unit : "") : "—"),
+        h("td", { class: "num" }, c.qty > 0 && d.unit ? "$" + num(c.value / c.qty) + "/" + d.unit : "—"),
+        h("td", { class: "num" }, c.share_pct.toFixed(1) + "%"));
       tb.appendChild(tr);
     });
     if (d.ports && d.ports.rows.length) {

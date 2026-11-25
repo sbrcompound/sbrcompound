@@ -6,6 +6,7 @@ and the site shows "Data pending" for them rather than inventing a value.
 """
 import datetime as _dt
 import os
+import re
 import statistics
 
 from marketdata import months as M
@@ -115,7 +116,7 @@ def trade_line(line):
             all_v = sum(tot.values()) or 1
             detail["ports"] = {
                 "months": [recent[0], recent[-1]],
-                "rows": [{"name": n, "value": v, "share_pct": round(v / all_v * 100, 1)}
+                "rows": [{"name": re.sub(r", ([A-Za-z]{2})$", lambda m: ", " + m.group(1).upper(), n), "value": v, "share_pct": round(v / all_v * 100, 1)}
                          for n, v in sorted(tot.items(), key=lambda kv: -kv[1])[:10]],
             }
     return summary, detail

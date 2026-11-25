@@ -285,52 +285,52 @@
   ],
   "rows": [
    {
-    "name": "Laredo, Tx",
+    "name": "Laredo, TX",
     "share_pct": 29.9,
     "value": 39499368.0
    },
    {
-    "name": "Eagle Pass, Tx",
+    "name": "Eagle Pass, TX",
     "share_pct": 9.3,
     "value": 12294100.0
    },
    {
-    "name": "Mobile, Al",
+    "name": "Mobile, AL",
     "share_pct": 9.1,
     "value": 11983152.0
    },
    {
-    "name": "Ysleta, Tx",
+    "name": "Ysleta, TX",
     "share_pct": 7.1,
     "value": 9343318.0
    },
    {
-    "name": "Houlton, Me",
+    "name": "Houlton, ME",
     "share_pct": 6.1,
     "value": 8078909.0
    },
    {
-    "name": "Brownsville, Tx",
+    "name": "Brownsville, TX",
     "share_pct": 4.7,
     "value": 6266434.0
    },
    {
-    "name": "Buffalo-Niagara Falls, Ny",
+    "name": "Buffalo-Niagara Falls, NY",
     "share_pct": 4.4,
     "value": 5769756.0
    },
    {
-    "name": "Port Huron, Mi",
+    "name": "Port Huron, MI",
     "share_pct": 3.5,
     "value": 4669248.0
    },
    {
-    "name": "El Paso, Tx",
+    "name": "El Paso, TX",
     "share_pct": 3.2,
     "value": 4256927.0
    },
    {
-    "name": "Detroit, Mi",
+    "name": "Detroit, MI",
     "share_pct": 2.6,
     "value": 3408993.0
    }

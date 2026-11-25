@@ -285,52 +285,52 @@
   ],
   "rows": [
    {
-    "name": "New York, Ny",
+    "name": "New York, NY",
     "share_pct": 16.0,
     "value": 2768785.0
    },
    {
-    "name": "Norfolk-Newport News, Va",
+    "name": "Norfolk-Newport News, VA",
     "share_pct": 13.0,
     "value": 2246108.0
    },
    {
-    "name": "Los Angeles, Ca",
+    "name": "Los Angeles, CA",
     "share_pct": 9.7,
     "value": 1683024.0
    },
    {
-    "name": "Newark, Nj",
+    "name": "Newark, NJ",
     "share_pct": 8.1,
     "value": 1400709.0
    },
    {
-    "name": "Houston, Tx",
+    "name": "Houston, TX",
     "share_pct": 6.4,
     "value": 1104048.0
    },
    {
-    "name": "Savannah, Ga",
+    "name": "Savannah, GA",
     "share_pct": 5.7,
     "value": 978244.0
    },
    {
-    "name": "Laredo, Tx",
+    "name": "Laredo, TX",
     "share_pct": 5.1,
     "value": 878255.0
    },
    {
-    "name": "Oakland, Ca",
+    "name": "Oakland, CA",
     "share_pct": 4.8,
     "value": 832075.0
    },
    {
-    "name": "Baltimore, Md",
+    "name": "Baltimore, MD",
     "share_pct": 4.8,
     "value": 826946.0
    },
    {
-    "name": "Buffalo-Niagara Falls, Ny",
+    "name": "Buffalo-Niagara Falls, NY",
     "share_pct": 3.6,
     "value": 623678.0
    }
