@@ -43,6 +43,38 @@
         h("td", { class: "num" }, c.share_pct.toFixed(1) + "%"));
       tb.appendChild(tr);
     });
+    if (d.grades && d.grades.months.length) {
+      const G = d.grades, gm = G.months;
+      $("grades-sec").hidden = false;
+      $("grades-note").textContent = G.bands.note || "";
+      const perLb = v => (v * 100 / 2.20462).toFixed(1) + "¢/lb";
+      const unc = gm.filter(r => r.uncured.unit_value !== null);
+      lineChart($("g-uv"), unc.map(r => ({ x: r.month, y: r.uncured.unit_value })), {
+        label: "Estimated uncured scrap export price", unit: "$/kg", height: 200, format: y => "$" + num(y) + "/kg",
+      });
+      lineChart($("g-q"), gm.map(r => ({ x: r.month, y: r.uncured.qty })), {
+        label: "Estimated uncured scrap export volume", unit: "kg", height: 200, format: big,
+      });
+      const lastU = unc[unc.length - 1];
+      if (lastU) {
+        $("g-uv-now").textContent = perLb(lastU.uncured.unit_value);
+        $("g-q-now").textContent = big(gm[gm.length - 1].uncured.qty) + " kg";
+      }
+      const yr = gm.slice(-12), sums = {};
+      ["uncured", "mixed", "cured"].forEach(k => {
+        sums[k] = yr.reduce((a, r) => ({ q: a.q + r[k].qty, v: a.v + r[k].value }), { q: 0, v: 0 });
+      });
+      const allQ = sums.uncured.q + sums.mixed.q + sums.cured.q || 1;
+      const names = { uncured: "Likely uncured", mixed: "Mixed or unclear", cured: "Likely cured" };
+      ["uncured", "mixed", "cured"].forEach(k => {
+        const x = sums[k];
+        const tr = h("tr");
+        tr.append(h("td", {}, names[k]), h("td", { class: "num" }, big(x.q) + " kg"),
+          h("td", { class: "num" }, (x.q / allQ * 100).toFixed(1) + "%"), h("td", { class: "num" }, "$" + big(x.v)),
+          h("td", { class: "num" }, x.q ? perLb(x.v / x.q) : "—"));
+        $("grades").appendChild(tr);
+      });
+    }
     if (d.ports && d.ports.rows.length) {
       $("ports-sec").hidden = false;
       const [a, b] = d.ports.months;

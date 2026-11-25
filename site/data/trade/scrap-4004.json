@@ -62,6 +62,646 @@
   }
  ],
  "flow": "exports",
+ "grades": {
+  "bands": {
+   "cured_below": 0.2,
+   "exclude_above": 3.0,
+   "note": "Estimated from the price each destination paid. Cutoffs are about 9¢ and 18¢ per lb; country-months above $3/kg are left out as likely misfiled goods.",
+   "uncured_above": 0.4
+  },
+  "months": [
+   {
+    "cured": {
+     "qty": 19791491.0,
+     "unit_value": 0.0702,
+     "value": 1390139.0
+    },
+    "mixed": {
+     "qty": 4620673.0,
+     "unit_value": 0.3052,
+     "value": 1410441.0
+    },
+    "month": "2023-11",
+    "uncured": {
+     "qty": 699108.0,
+     "unit_value": 0.9445,
+     "value": 660294.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 20137571.0,
+     "unit_value": 0.1064,
+     "value": 2142297.0
+    },
+    "mixed": {
+     "qty": 2757482.0,
+     "unit_value": 0.2924,
+     "value": 806392.0
+    },
+    "month": "2023-12",
+    "uncured": {
+     "qty": 1014407.0,
+     "unit_value": 0.7768,
+     "value": 788031.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 30167707.0,
+     "unit_value": 0.0759,
+     "value": 2289604.0
+    },
+    "mixed": {
+     "qty": 2123549.0,
+     "unit_value": 0.3454,
+     "value": 733482.0
+    },
+    "month": "2024-01",
+    "uncured": {
+     "qty": 1054500.0,
+     "unit_value": 0.6057,
+     "value": 638755.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 27619915.0,
+     "unit_value": 0.0902,
+     "value": 2491192.0
+    },
+    "mixed": {
+     "qty": 3126794.0,
+     "unit_value": 0.3227,
+     "value": 1008910.0
+    },
+    "month": "2024-02",
+    "uncured": {
+     "qty": 820144.0,
+     "unit_value": 0.7775,
+     "value": 637653.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 39129668.0,
+     "unit_value": 0.0962,
+     "value": 3765602.0
+    },
+    "mixed": {
+     "qty": 980886.0,
+     "unit_value": 0.3054,
+     "value": 299554.0
+    },
+    "month": "2024-03",
+    "uncured": {
+     "qty": 2269970.0,
+     "unit_value": 0.5011,
+     "value": 1137521.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 27479584.0,
+     "unit_value": 0.1023,
+     "value": 2812305.0
+    },
+    "mixed": {
+     "qty": 3883299.0,
+     "unit_value": 0.2985,
+     "value": 1159037.0
+    },
+    "month": "2024-04",
+    "uncured": {
+     "qty": 900711.0,
+     "unit_value": 1.0621,
+     "value": 956616.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 28318107.0,
+     "unit_value": 0.1059,
+     "value": 3000065.0
+    },
+    "mixed": {
+     "qty": 4705731.0,
+     "unit_value": 0.2875,
+     "value": 1353084.0
+    },
+    "month": "2024-05",
+    "uncured": {
+     "qty": 821964.0,
+     "unit_value": 0.9037,
+     "value": 742790.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 36275637.0,
+     "unit_value": 0.1636,
+     "value": 5935274.0
+    },
+    "mixed": {
+     "qty": 3309838.0,
+     "unit_value": 0.3065,
+     "value": 1014552.0
+    },
+    "month": "2024-06",
+    "uncured": {
+     "qty": 847750.0,
+     "unit_value": 0.8111,
+     "value": 687619.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 25844760.0,
+     "unit_value": 0.1159,
+     "value": 2994313.0
+    },
+    "mixed": {
+     "qty": 2597802.0,
+     "unit_value": 0.3276,
+     "value": 851090.0
+    },
+    "month": "2024-07",
+    "uncured": {
+     "qty": 1191780.0,
+     "unit_value": 0.5522,
+     "value": 658061.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 26033857.0,
+     "unit_value": 0.0977,
+     "value": 2543833.0
+    },
+    "mixed": {
+     "qty": 582794.0,
+     "unit_value": 0.2569,
+     "value": 149741.0
+    },
+    "month": "2024-08",
+    "uncured": {
+     "qty": 3285523.0,
+     "unit_value": 0.6124,
+     "value": 2011923.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 46475067.0,
+     "unit_value": 0.1065,
+     "value": 4947954.0
+    },
+    "mixed": {
+     "qty": 2540619.0,
+     "unit_value": 0.3661,
+     "value": 930180.0
+    },
+    "month": "2024-09",
+    "uncured": {
+     "qty": 912867.0,
+     "unit_value": 0.8603,
+     "value": 785340.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 38079460.0,
+     "unit_value": 0.1421,
+     "value": 5411662.0
+    },
+    "mixed": {
+     "qty": 3054831.0,
+     "unit_value": 0.3601,
+     "value": 1100019.0
+    },
+    "month": "2024-10",
+    "uncured": {
+     "qty": 289344.0,
+     "unit_value": 0.9229,
+     "value": 267041.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 38667895.0,
+     "unit_value": 0.1594,
+     "value": 6164852.0
+    },
+    "mixed": {
+     "qty": 3400833.0,
+     "unit_value": 0.3061,
+     "value": 1041029.0
+    },
+    "month": "2024-11",
+    "uncured": {
+     "qty": 409441.0,
+     "unit_value": 0.8442,
+     "value": 345650.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 39962680.0,
+     "unit_value": 0.1436,
+     "value": 5737831.0
+    },
+    "mixed": {
+     "qty": 2645947.0,
+     "unit_value": 0.31,
+     "value": 820296.0
+    },
+    "month": "2024-12",
+    "uncured": {
+     "qty": 482049.0,
+     "unit_value": 0.9963,
+     "value": 480281.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 10036287.0,
+     "unit_value": 0.051,
+     "value": 511661.0
+    },
+    "mixed": {
+     "qty": 30414623.0,
+     "unit_value": 0.2376,
+     "value": 7227497.0
+    },
+    "month": "2025-01",
+    "uncured": {
+     "qty": 415230.0,
+     "unit_value": 0.8045,
+     "value": 334068.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 38424667.0,
+     "unit_value": 0.1659,
+     "value": 6373956.0
+    },
+    "mixed": {
+     "qty": 3202740.0,
+     "unit_value": 0.3174,
+     "value": 1016431.0
+    },
+    "month": "2025-02",
+    "uncured": {
+     "qty": 586100.0,
+     "unit_value": 0.8296,
+     "value": 486201.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 47086680.0,
+     "unit_value": 0.1464,
+     "value": 6892249.0
+    },
+    "mixed": {
+     "qty": 4058370.0,
+     "unit_value": 0.3705,
+     "value": 1503484.0
+    },
+    "month": "2025-03",
+    "uncured": {
+     "qty": 312732.0,
+     "unit_value": 1.0834,
+     "value": 338813.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 50531642.0,
+     "unit_value": 0.1186,
+     "value": 5992712.0
+    },
+    "mixed": {
+     "qty": 3227591.0,
+     "unit_value": 0.3649,
+     "value": 1177612.0
+    },
+    "month": "2025-04",
+    "uncured": {
+     "qty": 1685518.0,
+     "unit_value": 0.6251,
+     "value": 1053591.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 48883262.0,
+     "unit_value": 0.1251,
+     "value": 6115730.0
+    },
+    "mixed": {
+     "qty": 5083431.0,
+     "unit_value": 0.3456,
+     "value": 1756983.0
+    },
+    "month": "2025-05",
+    "uncured": {
+     "qty": 241236.0,
+     "unit_value": 1.0319,
+     "value": 248941.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 42619331.0,
+     "unit_value": 0.1588,
+     "value": 6769097.0
+    },
+    "mixed": {
+     "qty": 3607105.0,
+     "unit_value": 0.3206,
+     "value": 1156469.0
+    },
+    "month": "2025-06",
+    "uncured": {
+     "qty": 899630.0,
+     "unit_value": 0.8179,
+     "value": 735814.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 9255845.0,
+     "unit_value": 0.0767,
+     "value": 709668.0
+    },
+    "mixed": {
+     "qty": 30415350.0,
+     "unit_value": 0.2394,
+     "value": 7281302.0
+    },
+    "month": "2025-07",
+    "uncured": {
+     "qty": 1438682.0,
+     "unit_value": 0.6843,
+     "value": 984551.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 43002981.0,
+     "unit_value": 0.1281,
+     "value": 5508611.0
+    },
+    "mixed": {
+     "qty": 4228165.0,
+     "unit_value": 0.3143,
+     "value": 1328927.0
+    },
+    "month": "2025-08",
+    "uncured": {
+     "qty": 946740.0,
+     "unit_value": 0.7309,
+     "value": 691953.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 50864342.0,
+     "unit_value": 0.1018,
+     "value": 5176335.0
+    },
+    "mixed": {
+     "qty": 3487734.0,
+     "unit_value": 0.3261,
+     "value": 1137370.0
+    },
+    "month": "2025-09",
+    "uncured": {
+     "qty": 1004030.0,
+     "unit_value": 1.5093,
+     "value": 1515365.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 42323477.0,
+     "unit_value": 0.1178,
+     "value": 4984887.0
+    },
+    "mixed": {
+     "qty": 4970592.0,
+     "unit_value": 0.3262,
+     "value": 1621207.0
+    },
+    "month": "2025-10",
+    "uncured": {
+     "qty": 715845.0,
+     "unit_value": 0.8338,
+     "value": 596889.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 51519884.0,
+     "unit_value": 0.1521,
+     "value": 7837575.0
+    },
+    "mixed": {
+     "qty": 3898952.0,
+     "unit_value": 0.2763,
+     "value": 1077336.0
+    },
+    "month": "2025-11",
+    "uncured": {
+     "qty": 1016035.0,
+     "unit_value": 1.0141,
+     "value": 1030400.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 48944050.0,
+     "unit_value": 0.1196,
+     "value": 5854475.0
+    },
+    "mixed": {
+     "qty": 4088986.0,
+     "unit_value": 0.2663,
+     "value": 1089037.0
+    },
+    "month": "2025-12",
+    "uncured": {
+     "qty": 552469.0,
+     "unit_value": 0.7761,
+     "value": 428775.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 48578333.0,
+     "unit_value": 0.1345,
+     "value": 6533961.0
+    },
+    "mixed": {
+     "qty": 3056144.0,
+     "unit_value": 0.329,
+     "value": 1005441.0
+    },
+    "month": "2026-01",
+    "uncured": {
+     "qty": 348062.0,
+     "unit_value": 0.8953,
+     "value": 311633.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 46206375.0,
+     "unit_value": 0.1131,
+     "value": 5224201.0
+    },
+    "mixed": {
+     "qty": 2422515.0,
+     "unit_value": 0.3664,
+     "value": 887570.0
+    },
+    "month": "2026-02",
+    "uncured": {
+     "qty": 916350.0,
+     "unit_value": 0.713,
+     "value": 653329.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 52857841.0,
+     "unit_value": 0.1373,
+     "value": 7255679.0
+    },
+    "mixed": {
+     "qty": 4523820.0,
+     "unit_value": 0.3047,
+     "value": 1378532.0
+    },
+    "month": "2026-03",
+    "uncured": {
+     "qty": 581721.0,
+     "unit_value": 0.8369,
+     "value": 486843.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 48815959.0,
+     "unit_value": 0.1164,
+     "value": 5682165.0
+    },
+    "mixed": {
+     "qty": 4136254.0,
+     "unit_value": 0.2361,
+     "value": 976531.0
+    },
+    "month": "2026-04",
+    "uncured": {
+     "qty": 1040926.0,
+     "unit_value": 0.5959,
+     "value": 620241.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 52134864.0,
+     "unit_value": 0.1494,
+     "value": 7787495.0
+    },
+    "mixed": {
+     "qty": 3906754.0,
+     "unit_value": 0.3108,
+     "value": 1214300.0
+    },
+    "month": "2026-05",
+    "uncured": {
+     "qty": 833514.0,
+     "unit_value": 0.8527,
+     "value": 710702.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 43696364.0,
+     "unit_value": 0.1265,
+     "value": 5527854.0
+    },
+    "mixed": {
+     "qty": 2949170.0,
+     "unit_value": 0.2803,
+     "value": 826680.0
+    },
+    "month": "2026-06",
+    "uncured": {
+     "qty": 952528.0,
+     "unit_value": 0.7901,
+     "value": 752554.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 44414207.0,
+     "unit_value": 0.0887,
+     "value": 3939276.0
+    },
+    "mixed": {
+     "qty": 3007361.0,
+     "unit_value": 0.2519,
+     "value": 757461.0
+    },
+    "month": "2026-07",
+    "uncured": {
+     "qty": 1494863.0,
+     "unit_value": 0.5236,
+     "value": 782735.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 41218097.0,
+     "unit_value": 0.076,
+     "value": 3131815.0
+    },
+    "mixed": {
+     "qty": 5706430.0,
+     "unit_value": 0.3082,
+     "value": 1758985.0
+    },
+    "month": "2026-08",
+    "uncured": {
+     "qty": 977618.0,
+     "unit_value": 0.6015,
+     "value": 588026.0
+    }
+   },
+   {
+    "cured": {
+     "qty": 50069618.0,
+     "unit_value": 0.0846,
+     "value": 4235788.0
+    },
+    "mixed": {
+     "qty": 3087673.0,
+     "unit_value": 0.3382,
+     "value": 1044172.0
+    },
+    "month": "2026-09",
+    "uncured": {
+     "qty": 1630287.0,
+     "unit_value": 0.5939,
+     "value": 968178.0
+    }
+   }
+  ]
+ },
  "hts": "4004.00.00",
  "id": "scrap-4004",
  "label": "Rubber waste, parings and scrap",

@@ -17,6 +17,18 @@
     <thead><tr><th>Country</th><th class="num">Value</th><th class="num">Volume</th><th class="num">Unit value</th><th class="num">Share of value</th></tr></thead>
     <tbody id="partners"><tr><td colspan="5" class="muted">Loading…</td></tr></tbody>
   </table></div>
+  <section id="grades-sec" hidden>
+    <h2>Cured vs. uncured, estimated</h2>
+    <p class="muted small" id="grades-note"></p>
+    <div class="grid2">
+      <section class="chart-block grade"><div class="chart-head"><h3>Likely uncured: price</h3><span class="val" id="g-uv-now"></span></div><div id="g-uv"></div></section>
+      <section class="chart-block grade"><div class="chart-head"><h3>Likely uncured: volume</h3><span class="val" id="g-q-now"></span></div><div id="g-q"></div></section>
+    </div>
+    <div class="table-scroll"><table>
+      <thead><tr><th>Last 12 months</th><th class="num">Volume</th><th class="num">Share of weight</th><th class="num">Value</th><th class="num">Avg price</th></tr></thead>
+      <tbody id="grades"></tbody>
+    </table></div>
+  </section>
   <section id="ports-sec" hidden>
     <h2 id="ports-h">Top U.S. ports</h2>
     <p class="muted small">Census reports port detail by value only. Totals cover all forms under this 6-digit code.</p>

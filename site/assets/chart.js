@@ -50,7 +50,7 @@
     let min = Math.min(...ys), max = Math.max(...ys);
     if (opts.baseline !== undefined) { min = Math.min(min, opts.baseline); max = Math.max(max, opts.baseline); }
     const pad = (max - min) * 0.08 || 1;
-    const ticks = niceTicks(min - pad, max + pad, 4);
+    const ticks = niceTicks(min >= 0 ? Math.max(0, min - pad) : min - pad, max + pad, 4);
     const y0 = ticks[0], y1 = ticks[ticks.length - 1];
     const X = i => L + (i / (points.length - 1)) * (W - L - R);
     const Y = v => T + (1 - (v - y0) / (y1 - y0)) * (H - T - B);

@@ -74,6 +74,34 @@ def combine(line):
     return out, unit
 
 
+def grade_split(data, ms, bands):
+    """Estimate cured vs uncured within one lumped code from the price each destination paid.
+
+    Census reports value and weight per country per month; scrap bought at a high price per kg
+    is almost always uncured compound, low-price scrap is cured crumb and buffings. Country-months
+    above the misreport ceiling are left out (usually other goods filed under the code)."""
+    cut_lo, cut_hi, ceiling = bands["cured_below"], bands["uncured_above"], bands["exclude_above"]
+    out = []
+    for m in ms:
+        rec = {"month": m}
+        for k in ("cured", "mixed", "uncured"):
+            rec[k] = {"qty": 0.0, "value": 0.0}
+        for c in data[m]["countries"].values():
+            if c["qty"] <= 0:
+                continue
+            u = c["value"] / c["qty"]
+            if u >= ceiling:
+                continue
+            k = "cured" if u < cut_lo else "uncured" if u >= cut_hi else "mixed"
+            rec[k]["qty"] += c["qty"]
+            rec[k]["value"] += c["value"]
+        for k in ("cured", "mixed", "uncured"):
+            q = rec[k]["qty"]
+            rec[k]["unit_value"] = round(rec[k]["value"] / q, 4) if q else None
+        out.append(rec)
+    return {"bands": bands, "months": out}
+
+
 def trade_line(line):
     data, unit = combine(line)
     if not data:
@@ -104,6 +132,8 @@ def trade_line(line):
              for c in data[last]["countries"].values()],
             key=lambda c: -c["value"])[:10],
     }
+    if line.get("grade_bands"):
+        detail["grades"] = grade_split(data, ms, line["grade_bands"])
     if line.get("ports"):
         ports = store.load(raw(os.path.join("trade", f"ports_{line['ports']}_{line['flow']}.json")))
         pm = (ports or {}).get("months", {})

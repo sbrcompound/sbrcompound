@@ -237,3 +237,5 @@ tr.link-row a:hover { text-decoration: underline; }
 main.wrap > h2:first-child { margin-top: 8px; }
 .spark { width: 100%; max-width: 96px; }
 .group-note { margin: 4px 0 10px; }
+.chart-block.grade { --c: var(--c-scrap); }
+#grades-sec .table-scroll { margin-top: 16px; }

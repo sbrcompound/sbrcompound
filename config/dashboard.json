@@ -44,7 +44,13 @@
             "4004000000"
           ],
           "countries": true,
-          "ports": "400400"
+          "ports": "400400",
+          "grade_bands": {
+            "cured_below": 0.2,
+            "uncured_above": 0.4,
+            "exclude_above": 3.0,
+            "note": "Estimated from the price each destination paid. Cutoffs are about 9\u00a2 and 18\u00a2 per lb; country-months above $3/kg are left out as likely misfiled goods."
+          }
         },
         {
           "id": "reclaim-4003",
