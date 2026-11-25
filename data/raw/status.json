@@ -1,9 +1,8 @@
 {
  "fx": {
-  "at": "2026-11-25T01:05:20Z",
-  "error": "INR: FRED_API_KEY is not set; BRL: FRED_API_KEY is not set; THB: FRED_API_KEY is not set",
-  "last_ok": null,
-  "ok": false
+  "at": "2026-11-25T01:36:42Z",
+  "ok": true,
+  "warnings": []
  },
  "news": {
   "at": "2026-11-25T01:04:20Z",
