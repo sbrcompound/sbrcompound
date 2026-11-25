@@ -5,9 +5,11 @@
   "warnings": []
  },
  "news": {
-  "at": "2026-11-25T01:04:20Z",
+  "at": "2026-11-25T04:09:05Z",
   "ok": true,
-  "warnings": []
+  "warnings": [
+   "Recycling Today: mismatched tag: line 7, column 9"
+  ]
  },
  "oil": {
   "at": "2026-11-25T01:04:21Z",
