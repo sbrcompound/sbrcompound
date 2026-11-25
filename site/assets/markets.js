@@ -61,7 +61,9 @@
         tr.appendChild(h("td", {}, l.flow === "exports" ? "Exports" : "Imports"));
         if (l.latest_month) {
           tr.appendChild(h("td", { class: "num" }, month(l.latest_month)));
-          tr.appendChild(h("td", { class: "num" }, big(l.qty) + (l.unit ? " " + (l.unit === "tire" ? "tires" : l.unit) : "")));
+          tr.appendChild(l.measure === "value"
+            ? h("td", { class: "num", title: "Census reports dollar value only for this code" }, "$" + big(l.value))
+            : h("td", { class: "num" }, big(l.qty) + (l.unit ? " " + (l.unit === "tire" ? "tires" : l.unit) : "")));
           tr.appendChild(change(h("td", { class: "num" }), l.qty_vs_12m_pct));
           tr.appendChild(h("td", { class: "num" }, l.unit_value === null || l.unit_value === undefined ? "—" : "$" + num(l.unit_value) + "/" + l.unit));
           const sp = h("td", { class: "num" });

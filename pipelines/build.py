@@ -79,7 +79,9 @@ def trade_line(line):
         return None, None
     ms = sorted(data)
     last = ms[-1]
-    prior = [data[m]["qty"] for m in M.span(M.add(last, -12), M.add(last, -1)) if m in data]
+    # Census gives no quantity at the 6-digit level (tires): track dollar value instead.
+    key = "qty" if any(data[m]["qty"] > 0 for m in ms) else "value"
+    prior = [data[m][key] for m in M.span(M.add(last, -12), M.add(last, -1)) if m in data]
     avg12 = statistics.fmean(prior) if len(prior) >= 6 else None
     uv_unit = UNIT_NAMES.get(unit, (unit or "").lower() or None)
 
@@ -89,8 +91,8 @@ def trade_line(line):
     summary = {
         "id": line["id"], "label": line["label"], "hts": line["hts"], "flow": line["flow"],
         "unit": uv_unit, "latest_month": last, "qty": data[last]["qty"], "value": data[last]["value"],
-        "qty_vs_12m_pct": pct(data[last]["qty"], avg12), "unit_value": uv(data[last]),
-        "spark": [[m, data[m]["qty"]] for m in ms[-24:]],
+        "measure": key, "qty_vs_12m_pct": pct(data[last][key], avg12), "unit_value": uv(data[last]),
+        "spark": [[m, data[m][key]] for m in ms[-24:]],
     }
     total = data[last]["value"] or 1
     detail = {
