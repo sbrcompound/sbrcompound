@@ -2002,13 +2002,8 @@
      "qty": 0.0,
      "value": 5000.0
     },
-    "4550": {
-     "name": "Poland",
-     "qty": 0.0,
-     "value": 0.0
-    },
-    "4759": {
-     "name": "Italy",
+    "5330": {
+     "name": "India",
      "qty": 0.0,
      "value": 0.0
     },
@@ -2016,6 +2011,11 @@
      "name": "Thailand",
      "qty": 0.0,
      "value": 134336.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 0.0
     },
     "5880": {
      "name": "Japan",

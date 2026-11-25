@@ -1443,21 +1443,6 @@
      "qty": 0.0,
      "value": 0.0
     },
-    "4700": {
-     "name": "Spain",
-     "qty": 0.0,
-     "value": 0.0
-    },
-    "4710": {
-     "name": "Portugal",
-     "qty": 0.0,
-     "value": 0.0
-    },
-    "5081": {
-     "name": "Israel",
-     "qty": 0.0,
-     "value": 0.0
-    },
     "5330": {
      "name": "India",
      "qty": 0.0,
@@ -1465,6 +1450,21 @@
     },
     "5420": {
      "name": "Sri Lanka",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5880": {
+     "name": "Japan",
      "qty": 0.0,
      "value": 0.0
     }

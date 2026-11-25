@@ -1,0 +1,340 @@
+{
+ "countries": [
+  {
+   "name": "Mexico",
+   "qty": 5178818.0,
+   "share_pct": 54.3,
+   "value": 23815021.0
+  },
+  {
+   "name": "Canada",
+   "qty": 2132110.0,
+   "share_pct": 23.5,
+   "value": 10327872.0
+  },
+  {
+   "name": "China",
+   "qty": 565152.0,
+   "share_pct": 7.0,
+   "value": 3055557.0
+  },
+  {
+   "name": "Thailand",
+   "qty": 1781812.0,
+   "share_pct": 2.9,
+   "value": 1264771.0
+  },
+  {
+   "name": "India",
+   "qty": 779547.0,
+   "share_pct": 2.4,
+   "value": 1042664.0
+  },
+  {
+   "name": "Brazil",
+   "qty": 233122.0,
+   "share_pct": 2.3,
+   "value": 995803.0
+  },
+  {
+   "name": "Japan",
+   "qty": 188628.0,
+   "share_pct": 1.7,
+   "value": 763594.0
+  },
+  {
+   "name": "Netherlands",
+   "qty": 121604.0,
+   "share_pct": 1.4,
+   "value": 626369.0
+  },
+  {
+   "name": "Turkey",
+   "qty": 475377.0,
+   "share_pct": 0.9,
+   "value": 378885.0
+  },
+  {
+   "name": "Belgium",
+   "qty": 68087.0,
+   "share_pct": 0.6,
+   "value": 278635.0
+  }
+ ],
+ "flow": "exports",
+ "hts": "4005.10.00",
+ "id": "x-compound-4005-10",
+ "label": "Compound with carbon black or silica",
+ "latest_month": "2026-09",
+ "months": [
+  {
+   "month": "2023-11",
+   "qty": 12299901.0,
+   "unit_value": 3.4765,
+   "value": 42760042.0
+  },
+  {
+   "month": "2023-12",
+   "qty": 10797576.0,
+   "unit_value": 3.5116,
+   "value": 37917007.0
+  },
+  {
+   "month": "2024-01",
+   "qty": 12929222.0,
+   "unit_value": 3.6757,
+   "value": 47523475.0
+  },
+  {
+   "month": "2024-02",
+   "qty": 13956075.0,
+   "unit_value": 3.3731,
+   "value": 47075298.0
+  },
+  {
+   "month": "2024-03",
+   "qty": 12950048.0,
+   "unit_value": 3.9803,
+   "value": 51545169.0
+  },
+  {
+   "month": "2024-04",
+   "qty": 13158712.0,
+   "unit_value": 4.1636,
+   "value": 54787268.0
+  },
+  {
+   "month": "2024-05",
+   "qty": 13358626.0,
+   "unit_value": 3.4365,
+   "value": 45906579.0
+  },
+  {
+   "month": "2024-06",
+   "qty": 11887415.0,
+   "unit_value": 3.3785,
+   "value": 40161347.0
+  },
+  {
+   "month": "2024-07",
+   "qty": 11526977.0,
+   "unit_value": 3.6052,
+   "value": 41557627.0
+  },
+  {
+   "month": "2024-08",
+   "qty": 12817991.0,
+   "unit_value": 3.5645,
+   "value": 45689312.0
+  },
+  {
+   "month": "2024-09",
+   "qty": 12407024.0,
+   "unit_value": 3.5541,
+   "value": 44095534.0
+  },
+  {
+   "month": "2024-10",
+   "qty": 12198045.0,
+   "unit_value": 3.5904,
+   "value": 43795708.0
+  },
+  {
+   "month": "2024-11",
+   "qty": 12543645.0,
+   "unit_value": 3.4995,
+   "value": 43896954.0
+  },
+  {
+   "month": "2024-12",
+   "qty": 10296482.0,
+   "unit_value": 3.2761,
+   "value": 33732132.0
+  },
+  {
+   "month": "2025-01",
+   "qty": 11774196.0,
+   "unit_value": 3.4959,
+   "value": 41161786.0
+  },
+  {
+   "month": "2025-02",
+   "qty": 11821791.0,
+   "unit_value": 3.4849,
+   "value": 41198288.0
+  },
+  {
+   "month": "2025-03",
+   "qty": 14340137.0,
+   "unit_value": 3.5054,
+   "value": 50268474.0
+  },
+  {
+   "month": "2025-04",
+   "qty": 11957527.0,
+   "unit_value": 3.5309,
+   "value": 42221097.0
+  },
+  {
+   "month": "2025-05",
+   "qty": 11920617.0,
+   "unit_value": 3.5654,
+   "value": 42501408.0
+  },
+  {
+   "month": "2025-06",
+   "qty": 10933184.0,
+   "unit_value": 3.8088,
+   "value": 41642461.0
+  },
+  {
+   "month": "2025-07",
+   "qty": 12430678.0,
+   "unit_value": 3.4397,
+   "value": 42757998.0
+  },
+  {
+   "month": "2025-08",
+   "qty": 11712881.0,
+   "unit_value": 3.7138,
+   "value": 43498757.0
+  },
+  {
+   "month": "2025-09",
+   "qty": 12312037.0,
+   "unit_value": 3.6814,
+   "value": 45325520.0
+  },
+  {
+   "month": "2025-10",
+   "qty": 13889609.0,
+   "unit_value": 3.293,
+   "value": 45738762.0
+  },
+  {
+   "month": "2025-11",
+   "qty": 11512513.0,
+   "unit_value": 3.2615,
+   "value": 37547695.0
+  },
+  {
+   "month": "2025-12",
+   "qty": 9949605.0,
+   "unit_value": 3.4363,
+   "value": 34189744.0
+  },
+  {
+   "month": "2026-01",
+   "qty": 10272044.0,
+   "unit_value": 3.3862,
+   "value": 34782980.0
+  },
+  {
+   "month": "2026-02",
+   "qty": 10268293.0,
+   "unit_value": 3.8085,
+   "value": 39106858.0
+  },
+  {
+   "month": "2026-03",
+   "qty": 12505169.0,
+   "unit_value": 3.3968,
+   "value": 42477264.0
+  },
+  {
+   "month": "2026-04",
+   "qty": 11615883.0,
+   "unit_value": 3.6479,
+   "value": 42373874.0
+  },
+  {
+   "month": "2026-05",
+   "qty": 11404221.0,
+   "unit_value": 3.7558,
+   "value": 42831841.0
+  },
+  {
+   "month": "2026-06",
+   "qty": 11033044.0,
+   "unit_value": 3.8683,
+   "value": 42678891.0
+  },
+  {
+   "month": "2026-07",
+   "qty": 11494673.0,
+   "unit_value": 3.7735,
+   "value": 43375540.0
+  },
+  {
+   "month": "2026-08",
+   "qty": 11971327.0,
+   "unit_value": 3.7456,
+   "value": 44839914.0
+  },
+  {
+   "month": "2026-09",
+   "qty": 11788150.0,
+   "unit_value": 3.7232,
+   "value": 43889156.0
+  }
+ ],
+ "ports": {
+  "months": [
+   "2026-07",
+   "2026-09"
+  ],
+  "rows": [
+   {
+    "name": "Laredo, Tx",
+    "share_pct": 29.9,
+    "value": 39499368.0
+   },
+   {
+    "name": "Eagle Pass, Tx",
+    "share_pct": 9.3,
+    "value": 12294100.0
+   },
+   {
+    "name": "Mobile, Al",
+    "share_pct": 9.1,
+    "value": 11983152.0
+   },
+   {
+    "name": "Ysleta, Tx",
+    "share_pct": 7.1,
+    "value": 9343318.0
+   },
+   {
+    "name": "Houlton, Me",
+    "share_pct": 6.1,
+    "value": 8078909.0
+   },
+   {
+    "name": "Brownsville, Tx",
+    "share_pct": 4.7,
+    "value": 6266434.0
+   },
+   {
+    "name": "Buffalo-Niagara Falls, Ny",
+    "share_pct": 4.4,
+    "value": 5769756.0
+   },
+   {
+    "name": "Port Huron, Mi",
+    "share_pct": 3.5,
+    "value": 4669248.0
+   },
+   {
+    "name": "El Paso, Tx",
+    "share_pct": 3.2,
+    "value": 4256927.0
+   },
+   {
+    "name": "Detroit, Mi",
+    "share_pct": 2.6,
+    "value": 3408993.0
+   }
+  ]
+ },
+ "unit": "kg"
+}

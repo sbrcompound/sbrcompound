@@ -1,0 +1,2317 @@
+{
+ "code": "4005910000",
+ "flow": "exports",
+ "months": {
+  "2023-11": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1593080.0,
+     "value": 5131914.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 291741.0,
+     "value": 1433587.0
+    },
+    "3510": {
+     "name": "Brazil",
+     "qty": 16101.0,
+     "value": 117668.0
+    },
+    "4039": {
+     "name": "Norway",
+     "qty": 7810.0,
+     "value": 138641.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 110574.0,
+     "value": 141028.0
+    },
+    "4890": {
+     "name": "Turkey",
+     "qty": 208000.0,
+     "value": 80000.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 521412.0,
+     "value": 226637.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 17476.0,
+     "value": 257586.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 16496.0,
+     "value": 594852.0
+    },
+    "5820": {
+     "name": "Hong Kong",
+     "qty": 5232.0,
+     "value": 127257.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 2999.0,
+     "value": 80255.0
+    },
+    "6021": {
+     "name": "Australia",
+     "qty": 3110.0,
+     "value": 84131.0
+    }
+   },
+   "qty": 3178767.0,
+   "value": 8969797.0
+  },
+  "2023-12": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1406883.0,
+     "value": 4728968.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 283301.0,
+     "value": 1837482.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 47036.0,
+     "value": 152737.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 33110.0,
+     "value": 149979.0
+    },
+    "4634": {
+     "name": "Kazakhstan",
+     "qty": 3552.0,
+     "value": 93723.0
+    },
+    "4890": {
+     "name": "Turkey",
+     "qty": 290066.0,
+     "value": 160975.0
+    },
+    "5200": {
+     "name": "United Arab Emirates",
+     "qty": 5850.0,
+     "value": 108118.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 346804.0,
+     "value": 134227.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 94989.0,
+     "value": 222942.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 7875.0,
+     "value": 241771.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 2543.0,
+     "value": 90495.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 3763.0,
+     "value": 92640.0
+    }
+   },
+   "qty": 2733213.0,
+   "value": 8627331.0
+  },
+  "2024-01": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1609643.0,
+     "value": 5438926.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 188711.0,
+     "value": 1894450.0
+    },
+    "3330": {
+     "name": "Peru",
+     "qty": 2154.0,
+     "value": 43242.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 78605.0,
+     "value": 177425.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 35041.0,
+     "value": 194363.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 6885.0,
+     "value": 121334.0
+    },
+    "4890": {
+     "name": "Turkey",
+     "qty": 509000.0,
+     "value": 220000.0
+    },
+    "5200": {
+     "name": "United Arab Emirates",
+     "qty": 5321.0,
+     "value": 92427.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 457433.0,
+     "value": 152167.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 11512.0,
+     "value": 147477.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 13378.0,
+     "value": 384310.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 3901.0,
+     "value": 107197.0
+    }
+   },
+   "qty": 2957710.0,
+   "value": 9228195.0
+  },
+  "2024-02": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1475122.0,
+     "value": 5181771.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 480788.0,
+     "value": 2278743.0
+    },
+    "3510": {
+     "name": "Brazil",
+     "qty": 19682.0,
+     "value": 106107.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 58960.0,
+     "value": 91821.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 21203.0,
+     "value": 247350.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 6179.0,
+     "value": 151975.0
+    },
+    "4890": {
+     "name": "Turkey",
+     "qty": 220000.0,
+     "value": 115000.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 404580.0,
+     "value": 110754.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 3407.0,
+     "value": 126257.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 6478.0,
+     "value": 108748.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 15787.0,
+     "value": 324798.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 7971.0,
+     "value": 152718.0
+    }
+   },
+   "qty": 2750302.0,
+   "value": 9378175.0
+  },
+  "2024-03": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1363280.0,
+     "value": 4908781.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 373281.0,
+     "value": 1956285.0
+    },
+    "4039": {
+     "name": "Norway",
+     "qty": 14800.0,
+     "value": 210000.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 112593.0,
+     "value": 184605.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 96138.0,
+     "value": 351107.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 15230.0,
+     "value": 216438.0
+    },
+    "4890": {
+     "name": "Turkey",
+     "qty": 291884.0,
+     "value": 147690.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 533182.0,
+     "value": 207787.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 4568.0,
+     "value": 141946.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 12278.0,
+     "value": 165727.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 9948.0,
+     "value": 662215.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 4921.0,
+     "value": 155619.0
+    }
+   },
+   "qty": 2876734.0,
+   "value": 9749062.0
+  },
+  "2024-04": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1079711.0,
+     "value": 3918438.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 283898.0,
+     "value": 1522166.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 74945.0,
+     "value": 107359.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 25142.0,
+     "value": 84289.0
+    },
+    "4634": {
+     "name": "Kazakhstan",
+     "qty": 4184.0,
+     "value": 93200.0
+    },
+    "4890": {
+     "name": "Turkey",
+     "qty": 219000.0,
+     "value": 163000.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 800229.0,
+     "value": 308054.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 8295.0,
+     "value": 347334.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 6379.0,
+     "value": 83305.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 16365.0,
+     "value": 443991.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 2693.0,
+     "value": 86621.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 8512.0,
+     "value": 246659.0
+    }
+   },
+   "qty": 2858083.0,
+   "value": 7967354.0
+  },
+  "2024-05": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1306218.0,
+     "value": 4783626.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 244729.0,
+     "value": 1518209.0
+    },
+    "3510": {
+     "name": "Brazil",
+     "qty": 21304.0,
+     "value": 259025.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 112967.0,
+     "value": 168966.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 52497.0,
+     "value": 448014.0
+    },
+    "4890": {
+     "name": "Turkey",
+     "qty": 264000.0,
+     "value": 156500.0
+    },
+    "5200": {
+     "name": "United Arab Emirates",
+     "qty": 8406.0,
+     "value": 123130.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 7237.0,
+     "value": 285510.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 13535.0,
+     "value": 109711.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 55793.0,
+     "value": 494019.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 6017.0,
+     "value": 464081.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 8446.0,
+     "value": 197772.0
+    }
+   },
+   "qty": 2621669.0,
+   "value": 9694459.0
+  },
+  "2024-06": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1183135.0,
+     "value": 4274732.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 290218.0,
+     "value": 1829826.0
+    },
+    "2050": {
+     "name": "Guatemala",
+     "qty": 542.0,
+     "value": 38725.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 95897.0,
+     "value": 171135.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 33539.0,
+     "value": 244733.0
+    },
+    "4890": {
+     "name": "Turkey",
+     "qty": 169000.0,
+     "value": 86000.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 264829.0,
+     "value": 197727.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 4723.0,
+     "value": 153506.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 36930.0,
+     "value": 332537.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 13935.0,
+     "value": 572785.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 1733.0,
+     "value": 41934.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 3167.0,
+     "value": 77464.0
+    }
+   },
+   "qty": 2157764.0,
+   "value": 8251683.0
+  },
+  "2024-07": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1495415.0,
+     "value": 4746965.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 356571.0,
+     "value": 1784163.0
+    },
+    "4039": {
+     "name": "Norway",
+     "qty": 12528.0,
+     "value": 193400.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 127764.0,
+     "value": 164146.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 98632.0,
+     "value": 306454.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 23059.0,
+     "value": 112280.0
+    },
+    "4890": {
+     "name": "Turkey",
+     "qty": 184527.0,
+     "value": 109617.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 171000.0,
+     "value": 103000.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 6499.0,
+     "value": 168209.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 8542.0,
+     "value": 139521.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 4826.0,
+     "value": 142081.0
+    },
+    "6021": {
+     "name": "Australia",
+     "qty": 6278.0,
+     "value": 102035.0
+    }
+   },
+   "qty": 2542668.0,
+   "value": 8410812.0
+  },
+  "2024-08": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1389911.0,
+     "value": 4509777.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 357123.0,
+     "value": 1861987.0
+    },
+    "3330": {
+     "name": "Peru",
+     "qty": 4215.0,
+     "value": 146955.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 129533.0,
+     "value": 168289.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 42536.0,
+     "value": 80985.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 4866.0,
+     "value": 115879.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 457087.0,
+     "value": 242334.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 6657.0,
+     "value": 141302.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 6841.0,
+     "value": 85619.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 10180.0,
+     "value": 591999.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 4170.0,
+     "value": 55040.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 7300.0,
+     "value": 198894.0
+    }
+   },
+   "qty": 2540432.0,
+   "value": 8538105.0
+  },
+  "2024-09": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1246269.0,
+     "value": 4564908.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 269138.0,
+     "value": 1578912.0
+    },
+    "2110": {
+     "name": "El Salvador",
+     "qty": 895.0,
+     "value": 155480.0
+    },
+    "3570": {
+     "name": "Argentina",
+     "qty": 24030.0,
+     "value": 459367.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 98186.0,
+     "value": 224426.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 14182.0,
+     "value": 84234.0
+    },
+    "4550": {
+     "name": "Poland",
+     "qty": 5908.0,
+     "value": 73417.0
+    },
+    "4890": {
+     "name": "Turkey",
+     "qty": 122000.0,
+     "value": 86000.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 460285.0,
+     "value": 345607.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 3360.0,
+     "value": 193645.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 5812.0,
+     "value": 118293.0
+    },
+    "6021": {
+     "name": "Australia",
+     "qty": 8287.0,
+     "value": 76811.0
+    }
+   },
+   "qty": 2420348.0,
+   "value": 8475657.0
+  },
+  "2024-10": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1446720.0,
+     "value": 5199981.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 329343.0,
+     "value": 1908130.0
+    },
+    "3330": {
+     "name": "Peru",
+     "qty": 5215.0,
+     "value": 124274.0
+    },
+    "4039": {
+     "name": "Norway",
+     "qty": 4625.0,
+     "value": 131591.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 79029.0,
+     "value": 137761.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 31518.0,
+     "value": 154352.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 27568.0,
+     "value": 149014.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 314209.0,
+     "value": 183247.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 20.0,
+     "value": 91244.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 12157.0,
+     "value": 807323.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 5002.0,
+     "value": 99449.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 861.0,
+     "value": 68930.0
+    }
+   },
+   "qty": 2359789.0,
+   "value": 9464449.0
+  },
+  "2024-11": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1271553.0,
+     "value": 4389395.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 339135.0,
+     "value": 2063834.0
+    },
+    "3510": {
+     "name": "Brazil",
+     "qty": 22482.0,
+     "value": 66101.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 135268.0,
+     "value": 453443.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 29896.0,
+     "value": 137308.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 5229.0,
+     "value": 92887.0
+    },
+    "4890": {
+     "name": "Turkey",
+     "qty": 207000.0,
+     "value": 147000.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 636112.0,
+     "value": 435403.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 1512.0,
+     "value": 84977.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 17201.0,
+     "value": 80015.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 8637.0,
+     "value": 150381.0
+    },
+    "6021": {
+     "name": "Australia",
+     "qty": 12656.0,
+     "value": 152952.0
+    }
+   },
+   "qty": 2745835.0,
+   "value": 8585514.0
+  },
+  "2024-12": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 921630.0,
+     "value": 3103117.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 172186.0,
+     "value": 998180.0
+    },
+    "3330": {
+     "name": "Peru",
+     "qty": 8128.0,
+     "value": 133842.0
+    },
+    "3510": {
+     "name": "Brazil",
+     "qty": 35922.0,
+     "value": 94211.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 40168.0,
+     "value": 98932.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 15321.0,
+     "value": 184001.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 2791.0,
+     "value": 59296.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 443364.0,
+     "value": 294513.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 6711.0,
+     "value": 309149.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 31741.0,
+     "value": 311465.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 10393.0,
+     "value": 210068.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 4278.0,
+     "value": 90167.0
+    }
+   },
+   "qty": 1831505.0,
+   "value": 6370880.0
+  },
+  "2025-01": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1430698.0,
+     "value": 4900254.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 415990.0,
+     "value": 2309159.0
+    },
+    "3330": {
+     "name": "Peru",
+     "qty": 5688.0,
+     "value": 73236.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 60491.0,
+     "value": 124167.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 19420.0,
+     "value": 191031.0
+    },
+    "4890": {
+     "name": "Turkey",
+     "qty": 228022.0,
+     "value": 169030.0
+    },
+    "5081": {
+     "name": "Israel",
+     "qty": 8109.0,
+     "value": 82184.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 166298.0,
+     "value": 126444.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 8491.0,
+     "value": 286020.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 30691.0,
+     "value": 605248.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 9138.0,
+     "value": 191583.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 3926.0,
+     "value": 92667.0
+    }
+   },
+   "qty": 2423788.0,
+   "value": 9501557.0
+  },
+  "2025-02": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1398815.0,
+     "value": 4724444.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 295777.0,
+     "value": 1709022.0
+    },
+    "3330": {
+     "name": "Peru",
+     "qty": 2845.0,
+     "value": 125430.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 64264.0,
+     "value": 230628.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 41071.0,
+     "value": 257189.0
+    },
+    "4890": {
+     "name": "Turkey",
+     "qty": 481000.0,
+     "value": 249000.0
+    },
+    "5200": {
+     "name": "United Arab Emirates",
+     "qty": 5554.0,
+     "value": 126834.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 302209.0,
+     "value": 203950.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 5323.0,
+     "value": 263153.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 13688.0,
+     "value": 229715.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 25126.0,
+     "value": 294842.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 6778.0,
+     "value": 174889.0
+    }
+   },
+   "qty": 2854614.0,
+   "value": 9170847.0
+  },
+  "2025-03": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1035126.0,
+     "value": 3656793.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 206046.0,
+     "value": 1153767.0
+    },
+    "3330": {
+     "name": "Peru",
+     "qty": 8054.0,
+     "value": 219276.0
+    },
+    "4039": {
+     "name": "Norway",
+     "qty": 9625.0,
+     "value": 173400.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 46692.0,
+     "value": 316471.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 57845.0,
+     "value": 423789.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 7407.0,
+     "value": 172193.0
+    },
+    "4890": {
+     "name": "Turkey",
+     "qty": 532653.0,
+     "value": 350080.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 885754.0,
+     "value": 428579.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 9234.0,
+     "value": 204768.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 40470.0,
+     "value": 356903.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 21778.0,
+     "value": 379003.0
+    }
+   },
+   "qty": 3041409.0,
+   "value": 8629919.0
+  },
+  "2025-04": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1050267.0,
+     "value": 3910663.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 145722.0,
+     "value": 1048296.0
+    },
+    "3330": {
+     "name": "Peru",
+     "qty": 4216.0,
+     "value": 164481.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 65118.0,
+     "value": 263249.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 62687.0,
+     "value": 87451.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 3433.0,
+     "value": 82742.0
+    },
+    "4890": {
+     "name": "Turkey",
+     "qty": 352486.0,
+     "value": 249023.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 446070.0,
+     "value": 185230.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 9238.0,
+     "value": 295103.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 33899.0,
+     "value": 261561.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 20656.0,
+     "value": 338448.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 4841.0,
+     "value": 129197.0
+    }
+   },
+   "qty": 2351695.0,
+   "value": 7503829.0
+  },
+  "2025-05": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1034734.0,
+     "value": 3783757.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 227877.0,
+     "value": 1309778.0
+    },
+    "2190": {
+     "name": "Nicaragua",
+     "qty": 644.0,
+     "value": 73982.0
+    },
+    "3330": {
+     "name": "Peru",
+     "qty": 10163.0,
+     "value": 362264.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 114141.0,
+     "value": 415256.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 5264.0,
+     "value": 121335.0
+    },
+    "4890": {
+     "name": "Turkey",
+     "qty": 120893.0,
+     "value": 117306.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 922881.0,
+     "value": 506843.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 12933.0,
+     "value": 394873.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 62034.0,
+     "value": 260897.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 4140.0,
+     "value": 68056.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 3950.0,
+     "value": 97887.0
+    }
+   },
+   "qty": 2681152.0,
+   "value": 7929230.0
+  },
+  "2025-06": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1001800.0,
+     "value": 4077227.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 220400.0,
+     "value": 1386133.0
+    },
+    "3330": {
+     "name": "Peru",
+     "qty": 4934.0,
+     "value": 183047.0
+    },
+    "4039": {
+     "name": "Norway",
+     "qty": 9360.0,
+     "value": 138614.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 68946.0,
+     "value": 252698.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 18982.0,
+     "value": 206939.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 3368.0,
+     "value": 120327.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 280234.0,
+     "value": 190131.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 4024.0,
+     "value": 80925.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 17420.0,
+     "value": 217614.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 2021.0,
+     "value": 99972.0
+    },
+    "6021": {
+     "name": "Australia",
+     "qty": 17657.0,
+     "value": 107795.0
+    }
+   },
+   "qty": 1755683.0,
+   "value": 7404991.0
+  },
+  "2025-07": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1163674.0,
+     "value": 4339005.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 270980.0,
+     "value": 1457557.0
+    },
+    "3330": {
+     "name": "Peru",
+     "qty": 8428.0,
+     "value": 293095.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 194753.0,
+     "value": 471363.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 5173.0,
+     "value": 113638.0
+    },
+    "4641": {
+     "name": "Moldova",
+     "qty": 11111.0,
+     "value": 111111.0
+    },
+    "4890": {
+     "name": "Turkey",
+     "qty": 70180.0,
+     "value": 67774.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 458441.0,
+     "value": 388049.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 12235.0,
+     "value": 109711.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 10986.0,
+     "value": 149515.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 22108.0,
+     "value": 307856.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 4336.0,
+     "value": 103560.0
+    }
+   },
+   "qty": 2250050.0,
+   "value": 8196146.0
+  },
+  "2025-08": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1178956.0,
+     "value": 4470297.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 122285.0,
+     "value": 733205.0
+    },
+    "3330": {
+     "name": "Peru",
+     "qty": 5327.0,
+     "value": 176273.0
+    },
+    "3510": {
+     "name": "Brazil",
+     "qty": 40816.0,
+     "value": 92391.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 115526.0,
+     "value": 475320.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 12316.0,
+     "value": 132189.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 4226.0,
+     "value": 132796.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 934111.0,
+     "value": 534330.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 6431.0,
+     "value": 78732.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 17493.0,
+     "value": 246790.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 9720.0,
+     "value": 149960.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 6309.0,
+     "value": 190277.0
+    }
+   },
+   "qty": 2592050.0,
+   "value": 7873441.0
+  },
+  "2025-09": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1347337.0,
+     "value": 5134286.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 146459.0,
+     "value": 816375.0
+    },
+    "2230": {
+     "name": "Costa Rica",
+     "qty": 23380.0,
+     "value": 69086.0
+    },
+    "3510": {
+     "name": "Brazil",
+     "qty": 7570.0,
+     "value": 65681.0
+    },
+    "4039": {
+     "name": "Norway",
+     "qty": 6803.0,
+     "value": 118400.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 105915.0,
+     "value": 423448.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 413569.0,
+     "value": 301895.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 5063.0,
+     "value": 104509.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 37521.0,
+     "value": 292259.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 6837.0,
+     "value": 122981.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 3692.0,
+     "value": 96855.0
+    },
+    "6021": {
+     "name": "Australia",
+     "qty": 5326.0,
+     "value": 86522.0
+    }
+   },
+   "qty": 2234360.0,
+   "value": 8136515.0
+  },
+  "2025-10": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1211670.0,
+     "value": 4712718.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 269158.0,
+     "value": 1419981.0
+    },
+    "3330": {
+     "name": "Peru",
+     "qty": 2532.0,
+     "value": 75001.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 119660.0,
+     "value": 313619.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 10976.0,
+     "value": 111246.0
+    },
+    "4890": {
+     "name": "Turkey",
+     "qty": 258218.0,
+     "value": 212079.0
+    },
+    "5200": {
+     "name": "United Arab Emirates",
+     "qty": 2860.0,
+     "value": 65981.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 623086.0,
+     "value": 444034.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 6055.0,
+     "value": 104989.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 14901.0,
+     "value": 225730.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 8794.0,
+     "value": 261717.0
+    },
+    "6021": {
+     "name": "Australia",
+     "qty": 29414.0,
+     "value": 269194.0
+    }
+   },
+   "qty": 2671901.0,
+   "value": 8606183.0
+  },
+  "2025-11": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1100311.0,
+     "value": 4191539.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 280673.0,
+     "value": 1427173.0
+    },
+    "2050": {
+     "name": "Guatemala",
+     "qty": 897.0,
+     "value": 65785.0
+    },
+    "3510": {
+     "name": "Brazil",
+     "qty": 20636.0,
+     "value": 138542.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 83927.0,
+     "value": 176121.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 12628.0,
+     "value": 163545.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 3482.0,
+     "value": 77648.0
+    },
+    "4890": {
+     "name": "Turkey",
+     "qty": 118021.0,
+     "value": 63210.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 938039.0,
+     "value": 507914.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 3305.0,
+     "value": 60026.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 5782.0,
+     "value": 81803.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 4325.0,
+     "value": 98748.0
+    }
+   },
+   "qty": 2611900.0,
+   "value": 7438069.0
+  },
+  "2025-12": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 790821.0,
+     "value": 3059979.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 267385.0,
+     "value": 1196801.0
+    },
+    "3330": {
+     "name": "Peru",
+     "qty": 10152.0,
+     "value": 545555.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 52846.0,
+     "value": 312352.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 801.0,
+     "value": 82830.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 3624.0,
+     "value": 107997.0
+    },
+    "4890": {
+     "name": "Turkey",
+     "qty": 69000.0,
+     "value": 67000.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 703939.0,
+     "value": 411436.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 2304.0,
+     "value": 70134.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 6410.0,
+     "value": 76108.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 2265.0,
+     "value": 132159.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 9500.0,
+     "value": 157262.0
+    }
+   },
+   "qty": 2013157.0,
+   "value": 6669755.0
+  },
+  "2026-01": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1016927.0,
+     "value": 4157430.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 383435.0,
+     "value": 1772289.0
+    },
+    "3330": {
+     "name": "Peru",
+     "qty": 3368.0,
+     "value": 114604.0
+    },
+    "3370": {
+     "name": "Chile",
+     "qty": 4416.0,
+     "value": 124276.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 86544.0,
+     "value": 280439.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 23799.0,
+     "value": 143962.0
+    },
+    "4890": {
+     "name": "Turkey",
+     "qty": 117000.0,
+     "value": 60500.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 727776.0,
+     "value": 431675.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 28374.0,
+     "value": 205609.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 6783.0,
+     "value": 94177.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 7140.0,
+     "value": 97212.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 2824.0,
+     "value": 68118.0
+    }
+   },
+   "qty": 2455485.0,
+   "value": 7924309.0
+  },
+  "2026-02": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 975406.0,
+     "value": 3836216.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 560131.0,
+     "value": 2589315.0
+    },
+    "2230": {
+     "name": "Costa Rica",
+     "qty": 3095.0,
+     "value": 58659.0
+    },
+    "3330": {
+     "name": "Peru",
+     "qty": 4411.0,
+     "value": 78449.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 56118.0,
+     "value": 302529.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 7412.0,
+     "value": 101423.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 799071.0,
+     "value": 460931.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 27505.0,
+     "value": 116746.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 3927.0,
+     "value": 99306.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 114666.0,
+     "value": 99928.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 20167.0,
+     "value": 383178.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 9709.0,
+     "value": 150779.0
+    }
+   },
+   "qty": 2633203.0,
+   "value": 8623336.0
+  },
+  "2026-03": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1205373.0,
+     "value": 4571566.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 495020.0,
+     "value": 2376190.0
+    },
+    "3330": {
+     "name": "Peru",
+     "qty": 8158.0,
+     "value": 224460.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 31706.0,
+     "value": 205368.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 15737.0,
+     "value": 132675.0
+    },
+    "4890": {
+     "name": "Turkey",
+     "qty": 396766.0,
+     "value": 240694.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 864442.0,
+     "value": 463522.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 4193.0,
+     "value": 71766.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 10525.0,
+     "value": 147236.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 88350.0,
+     "value": 767663.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 12561.0,
+     "value": 231540.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 7422.0,
+     "value": 104033.0
+    }
+   },
+   "qty": 3306879.0,
+   "value": 10197862.0
+  },
+  "2026-04": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1349165.0,
+     "value": 4948625.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 465755.0,
+     "value": 2012181.0
+    },
+    "3330": {
+     "name": "Peru",
+     "qty": 3994.0,
+     "value": 126313.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 74064.0,
+     "value": 254972.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 31215.0,
+     "value": 276318.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 4640.0,
+     "value": 78586.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 903108.0,
+     "value": 426150.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 3395.0,
+     "value": 87947.0
+    },
+    "5650": {
+     "name": "Philippines",
+     "qty": 2881.0,
+     "value": 78092.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 10068.0,
+     "value": 135215.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 14483.0,
+     "value": 263603.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 2895.0,
+     "value": 81549.0
+    }
+   },
+   "qty": 2919454.0,
+   "value": 9423518.0
+  },
+  "2026-05": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1351345.0,
+     "value": 5303252.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 535985.0,
+     "value": 2558632.0
+    },
+    "3330": {
+     "name": "Peru",
+     "qty": 8786.0,
+     "value": 333803.0
+    },
+    "3510": {
+     "name": "Brazil",
+     "qty": 19092.0,
+     "value": 116695.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 152356.0,
+     "value": 496563.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 21937.0,
+     "value": 238742.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 4416.0,
+     "value": 110195.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 455040.0,
+     "value": 303263.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 3759.0,
+     "value": 85585.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 12119.0,
+     "value": 178018.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 10721.0,
+     "value": 210745.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 3928.0,
+     "value": 112510.0
+    }
+   },
+   "qty": 2805192.0,
+   "value": 10894454.0
+  },
+  "2026-06": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1199142.0,
+     "value": 4508693.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 523373.0,
+     "value": 2539215.0
+    },
+    "3330": {
+     "name": "Peru",
+     "qty": 10742.0,
+     "value": 364091.0
+    },
+    "3370": {
+     "name": "Chile",
+     "qty": 2092.0,
+     "value": 63701.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 91889.0,
+     "value": 507752.0
+    },
+    "4623": {
+     "name": "Ukraine",
+     "qty": 15973.0,
+     "value": 58397.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 563942.0,
+     "value": 335527.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 4383.0,
+     "value": 165274.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 5964.0,
+     "value": 82916.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 4949.0,
+     "value": 68277.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 6350.0,
+     "value": 106130.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 5165.0,
+     "value": 118444.0
+    }
+   },
+   "qty": 2511192.0,
+   "value": 9346068.0
+  },
+  "2026-07": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1192343.0,
+     "value": 4493595.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 629843.0,
+     "value": 2932678.0
+    },
+    "3330": {
+     "name": "Peru",
+     "qty": 5880.0,
+     "value": 252223.0
+    },
+    "3510": {
+     "name": "Brazil",
+     "qty": 2648.0,
+     "value": 102556.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 237668.0,
+     "value": 898162.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 14257.0,
+     "value": 142058.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 206360.0,
+     "value": 144528.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 4566.0,
+     "value": 58040.0
+    },
+    "5650": {
+     "name": "Philippines",
+     "qty": 5833.0,
+     "value": 156063.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 10399.0,
+     "value": 187336.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 11720.0,
+     "value": 320206.0
+    },
+    "7810": {
+     "name": "British Indian Ocean Territories",
+     "qty": 155293.0,
+     "value": 82000.0
+    }
+   },
+   "qty": 2535780.0,
+   "value": 10090875.0
+  },
+  "2026-08": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1161082.0,
+     "value": 4308053.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 460611.0,
+     "value": 2271391.0
+    },
+    "3330": {
+     "name": "Peru",
+     "qty": 5182.0,
+     "value": 221099.0
+    },
+    "3370": {
+     "name": "Chile",
+     "qty": 3177.0,
+     "value": 97704.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 185993.0,
+     "value": 682890.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 6694.0,
+     "value": 114927.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 683966.0,
+     "value": 452713.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 149045.0,
+     "value": 103461.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 4602.0,
+     "value": 114315.0
+    },
+    "5650": {
+     "name": "Philippines",
+     "qty": 4871.0,
+     "value": 93366.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 14522.0,
+     "value": 200379.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 14290.0,
+     "value": 279588.0
+    }
+   },
+   "qty": 2800912.0,
+   "value": 9656738.0
+  },
+  "2026-09": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1431850.0,
+     "value": 5221247.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 431607.0,
+     "value": 1995588.0
+    },
+    "3330": {
+     "name": "Peru",
+     "qty": 3761.0,
+     "value": 119195.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 52375.0,
+     "value": 325929.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 9649.0,
+     "value": 120614.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 22389.0,
+     "value": 92355.0
+    },
+    "4890": {
+     "name": "Turkey",
+     "qty": 202900.0,
+     "value": 192300.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 569184.0,
+     "value": 380330.0
+    },
+    "5650": {
+     "name": "Philippines",
+     "qty": 4038.0,
+     "value": 132630.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 7702.0,
+     "value": 191279.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 4213.0,
+     "value": 101736.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 10550.0,
+     "value": 163595.0
+    }
+   },
+   "qty": 2892197.0,
+   "value": 9586481.0
+  }
+ },
+ "unit": "KG"
+}

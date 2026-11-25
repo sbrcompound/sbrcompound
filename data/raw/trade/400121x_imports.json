@@ -1,0 +1,2277 @@
+{
+ "code": "400121*",
+ "flow": "imports",
+ "months": {
+  "2023-11": {
+   "countries": {
+    "4419": {
+     "name": "Switzerland",
+     "qty": 40320.0,
+     "value": 60077.0
+    },
+    "5420": {
+     "name": "Sri Lanka",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 4524786.0,
+     "value": 7408220.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 282240.0,
+     "value": 409682.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 201600.0,
+     "value": 322560.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 161280.0,
+     "value": 260870.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 515460.0,
+     "value": 922642.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 43500.0,
+     "value": 62773.0
+    },
+    "7460": {
+     "name": "Guinea",
+     "qty": 241920.0,
+     "value": 378515.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 2468611.0,
+     "value": 3773968.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 1088640.0,
+     "value": 1646656.0
+    },
+    "7650": {
+     "name": "Liberia",
+     "qty": 80640.0,
+     "value": 120750.0
+    }
+   },
+   "qty": 9648997.0,
+   "value": 15366713.0
+  },
+  "2023-12": {
+   "countries": {
+    "4411": {
+     "name": "Liechtenstein",
+     "qty": 120960.0,
+     "value": 189738.0
+    },
+    "4759": {
+     "name": "Italy",
+     "qty": 31.0,
+     "value": 1061.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 3126444.0,
+     "value": 5265189.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 697380.0,
+     "value": 1083851.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 302400.0,
+     "value": 498960.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 19200.0,
+     "value": 34176.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 668858.0,
+     "value": 1231470.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 24000.0,
+     "value": 33740.0
+    },
+    "7460": {
+     "name": "Guinea",
+     "qty": 262080.0,
+     "value": 428325.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 604800.0,
+     "value": 946218.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 423360.0,
+     "value": 679495.0
+    },
+    "7650": {
+     "name": "Liberia",
+     "qty": 120960.0,
+     "value": 189738.0
+    }
+   },
+   "qty": 6370473.0,
+   "value": 10581961.0
+  },
+  "2024-01": {
+   "countries": {
+    "2010": {
+     "name": "Mexico",
+     "qty": 92.0,
+     "value": 626.0
+    },
+    "3010": {
+     "name": "Colombia",
+     "qty": 16467.0,
+     "value": 68704.0
+    },
+    "4411": {
+     "name": "Liechtenstein",
+     "qty": 221760.0,
+     "value": 368202.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 2763816.0,
+     "value": 4714314.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 222400.0,
+     "value": 345341.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 241920.0,
+     "value": 422150.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 610680.0,
+     "value": 1137224.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 63000.0,
+     "value": 88567.0
+    },
+    "7460": {
+     "name": "Guinea",
+     "qty": 60480.0,
+     "value": 102278.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 1840128.0,
+     "value": 3029448.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 1313984.0,
+     "value": 2168218.0
+    },
+    "7650": {
+     "name": "Liberia",
+     "qty": 20160.0,
+     "value": 34530.0
+    }
+   },
+   "qty": 7374887.0,
+   "value": 12479602.0
+  },
+  "2024-02": {
+   "countries": {
+    "2010": {
+     "name": "Mexico",
+     "qty": 208.0,
+     "value": 596.0
+    },
+    "3010": {
+     "name": "Colombia",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "4411": {
+     "name": "Liechtenstein",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 4167455.0,
+     "value": 7467418.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 582120.0,
+     "value": 943083.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 100800.0,
+     "value": 177408.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 1068720.0,
+     "value": 2062135.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 16500.0,
+     "value": 23196.0
+    },
+    "7460": {
+     "name": "Guinea",
+     "qty": 141120.0,
+     "value": 234499.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 1310400.0,
+     "value": 2166160.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 947520.0,
+     "value": 1599452.0
+    },
+    "7650": {
+     "name": "Liberia",
+     "qty": 0.0,
+     "value": 0.0
+    }
+   },
+   "qty": 8334843.0,
+   "value": 14673947.0
+  },
+  "2024-03": {
+   "countries": {
+    "2010": {
+     "name": "Mexico",
+     "qty": 264.0,
+     "value": 298.0
+    },
+    "3010": {
+     "name": "Colombia",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 4313310.0,
+     "value": 7904625.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 383040.0,
+     "value": 684230.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 201600.0,
+     "value": 355824.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 100800.0,
+     "value": 178416.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 584880.0,
+     "value": 1105561.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "7460": {
+     "name": "Guinea",
+     "qty": 463680.0,
+     "value": 767383.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 1955520.0,
+     "value": 3276108.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 766080.0,
+     "value": 1268936.0
+    },
+    "7650": {
+     "name": "Liberia",
+     "qty": 80640.0,
+     "value": 133338.0
+    }
+   },
+   "qty": 8849814.0,
+   "value": 15674719.0
+  },
+  "2024-04": {
+   "countries": {
+    "3010": {
+     "name": "Colombia",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "4411": {
+     "name": "Liechtenstein",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 7428895.0,
+     "value": 14563293.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 288540.0,
+     "value": 490914.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 201600.0,
+     "value": 362880.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 201600.0,
+     "value": 365400.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 691760.0,
+     "value": 1604919.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "7460": {
+     "name": "Guinea",
+     "qty": 161280.0,
+     "value": 266338.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 2036160.0,
+     "value": 3640833.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 1149120.0,
+     "value": 2012500.0
+    },
+    "7650": {
+     "name": "Liberia",
+     "qty": 120960.0,
+     "value": 200007.0
+    }
+   },
+   "qty": 12279915.0,
+   "value": 23507084.0
+  },
+  "2024-05": {
+   "countries": {
+    "4231": {
+     "name": "Belgium",
+     "qty": 20160.0,
+     "value": 32256.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 1.0,
+     "value": 1116.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 101700.0,
+     "value": 208735.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 6948827.0,
+     "value": 14795519.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 100800.0,
+     "value": 177610.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 201600.0,
+     "value": 388080.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 100800.0,
+     "value": 198576.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 910860.0,
+     "value": 1845639.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "7460": {
+     "name": "Guinea",
+     "qty": 100800.0,
+     "value": 186662.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 2520000.0,
+     "value": 4630480.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 403200.0,
+     "value": 732069.0
+    }
+   },
+   "qty": 11408748.0,
+   "value": 23196742.0
+  },
+  "2024-06": {
+   "countries": {
+    "5330": {
+     "name": "India",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 2753413.0,
+     "value": 6544764.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 197820.0,
+     "value": 393339.0
+    },
+    "5530": {
+     "name": "Laos",
+     "qty": 20160.0,
+     "value": 41126.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 403200.0,
+     "value": 953568.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 120000.0,
+     "value": 274392.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 821460.0,
+     "value": 2027561.0
+    },
+    "7460": {
+     "name": "Guinea",
+     "qty": 181440.0,
+     "value": 333196.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 1733760.0,
+     "value": 3254620.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 685440.0,
+     "value": 1291647.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 201600.0,
+     "value": 378786.0
+    },
+    "7650": {
+     "name": "Liberia",
+     "qty": 221760.0,
+     "value": 409446.0
+    }
+   },
+   "qty": 7340053.0,
+   "value": 15902445.0
+  },
+  "2024-07": {
+   "countries": {
+    "4279": {
+     "name": "France",
+     "qty": 40.0,
+     "value": 360.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 3833708.0,
+     "value": 9677507.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 20160.0,
+     "value": 39413.0
+    },
+    "5530": {
+     "name": "Laos",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 1914119.0,
+     "value": 4959033.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 1653120.0,
+     "value": 3180895.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 443520.0,
+     "value": 838159.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 584640.0,
+     "value": 1116101.0
+    },
+    "7650": {
+     "name": "Liberia",
+     "qty": 181440.0,
+     "value": 349453.0
+    }
+   },
+   "qty": 8630747.0,
+   "value": 20160921.0
+  },
+  "2024-08": {
+   "countries": {
+    "4759": {
+     "name": "Italy",
+     "qty": 232.0,
+     "value": 4082.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 2073007.0,
+     "value": 5197371.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 302400.0,
+     "value": 621492.0
+    },
+    "5530": {
+     "name": "Laos",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 1607160.0,
+     "value": 4027559.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 3083660.0,
+     "value": 6371321.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 181440.0,
+     "value": 349248.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 645120.0,
+     "value": 1294925.0
+    }
+   },
+   "qty": 7893019.0,
+   "value": 17865998.0
+  },
+  "2024-09": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 3600.0,
+     "value": 9010.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 78.0,
+     "value": 2876.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 3372995.0,
+     "value": 8501277.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 241920.0,
+     "value": 475751.0
+    },
+    "5530": {
+     "name": "Laos",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 38400.0,
+     "value": 83712.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 1851020.0,
+     "value": 5115714.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 866880.0,
+     "value": 1864310.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 342720.0,
+     "value": 742297.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 664678.0,
+     "value": 1372616.0
+    },
+    "7650": {
+     "name": "Liberia",
+     "qty": 201600.0,
+     "value": 412111.0
+    }
+   },
+   "qty": 7583891.0,
+   "value": 18579674.0
+  },
+  "2024-10": {
+   "countries": {
+    "4280": {
+     "name": "Germany",
+     "qty": 20.0,
+     "value": 826.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 5530199.0,
+     "value": 14190037.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 782760.0,
+     "value": 1589140.0
+    },
+    "5530": {
+     "name": "Laos",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 20160.0,
+     "value": 52946.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 59200.0,
+     "value": 143520.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 722680.0,
+     "value": 1897353.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 2297638.0,
+     "value": 5024039.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 262080.0,
+     "value": 584182.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 342720.0,
+     "value": 739768.0
+    }
+   },
+   "qty": 10017457.0,
+   "value": 24221811.0
+  },
+  "2024-11": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 1.0,
+     "value": 500.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 4949779.0,
+     "value": 12796518.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 875700.0,
+     "value": 1828489.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 157800.0,
+     "value": 335934.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 19200.0,
+     "value": 43488.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 1037820.0,
+     "value": 2720822.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 114.0,
+     "value": 5648.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 1310400.0,
+     "value": 2982899.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 161280.0,
+     "value": 358864.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 987840.0,
+     "value": 2148927.0
+    },
+    "7660": {
+     "name": "Democratic Republic Of The Congo",
+     "qty": 161280.0,
+     "value": 373895.0
+    }
+   },
+   "qty": 9661214.0,
+   "value": 23595984.0
+  },
+  "2024-12": {
+   "countries": {
+    "4279": {
+     "name": "France",
+     "qty": 200000.0,
+     "value": 426462.0
+    },
+    "5330": {
+     "name": "India",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 2200922.0,
+     "value": 6062558.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 502740.0,
+     "value": 1083470.0
+    },
+    "5530": {
+     "name": "Laos",
+     "qty": 20160.0,
+     "value": 46368.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 38000.0,
+     "value": 84854.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 220680.0,
+     "value": 473025.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 553260.0,
+     "value": 1480508.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 2358720.0,
+     "value": 5453187.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 604800.0,
+     "value": 1403580.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 645120.0,
+     "value": 1490873.0
+    },
+    "7650": {
+     "name": "Liberia",
+     "qty": 383040.0,
+     "value": 886700.0
+    }
+   },
+   "qty": 7727442.0,
+   "value": 18891585.0
+  },
+  "2025-01": {
+   "countries": {
+    "4280": {
+     "name": "Germany",
+     "qty": 81.0,
+     "value": 2792.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 3685194.0,
+     "value": 10301066.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 604800.0,
+     "value": 1369867.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 60000.0,
+     "value": 132396.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 1115640.0,
+     "value": 3231640.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 7.0,
+     "value": 664.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 1854720.0,
+     "value": 4454393.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 100800.0,
+     "value": 243442.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 584640.0,
+     "value": 1409041.0
+    }
+   },
+   "qty": 8005882.0,
+   "value": 21145301.0
+  },
+  "2025-02": {
+   "countries": {
+    "4279": {
+     "name": "France",
+     "qty": 201600.0,
+     "value": 486884.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "4411": {
+     "name": "Liechtenstein",
+     "qty": 161280.0,
+     "value": 389507.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 4875979.0,
+     "value": 13417432.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 181440.0,
+     "value": 437372.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 1194900.0,
+     "value": 3231736.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 27.0,
+     "value": 2852.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 3327934.0,
+     "value": 7976433.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 544320.0,
+     "value": 1305692.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "7650": {
+     "name": "Liberia",
+     "qty": 201600.0,
+     "value": 482792.0
+    }
+   },
+   "qty": 10689080.0,
+   "value": 27730700.0
+  },
+  "2025-03": {
+   "countries": {
+    "2190": {
+     "name": "Nicaragua",
+     "qty": 161280.0,
+     "value": 385362.0
+    },
+    "4550": {
+     "name": "Poland",
+     "qty": 11.0,
+     "value": 364.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 4157176.0,
+     "value": 10934372.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 399420.0,
+     "value": 908893.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 201600.0,
+     "value": 489888.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 541380.0,
+     "value": 1604944.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 4262760.0,
+     "value": 10216735.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 544320.0,
+     "value": 1311363.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 100800.0,
+     "value": 242535.0
+    },
+    "7650": {
+     "name": "Liberia",
+     "qty": 100800.0,
+     "value": 243372.0
+    }
+   },
+   "qty": 10469547.0,
+   "value": 26337828.0
+  },
+  "2025-04": {
+   "countries": {
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "4411": {
+     "name": "Liechtenstein",
+     "qty": 322560.0,
+     "value": 756214.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 4523621.0,
+     "value": 11824515.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 158760.0,
+     "value": 367403.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 220650.0,
+     "value": 546863.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 1397160.0,
+     "value": 4017687.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 3326400.0,
+     "value": 7781733.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 564480.0,
+     "value": 1345426.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 161280.0,
+     "value": 360396.0
+    },
+    "7650": {
+     "name": "Liberia",
+     "qty": 100800.0,
+     "value": 235146.0
+    }
+   },
+   "qty": 10775711.0,
+   "value": 27235383.0
+  },
+  "2025-05": {
+   "countries": {
+    "4279": {
+     "name": "France",
+     "qty": 161280.0,
+     "value": 379282.0
+    },
+    "4411": {
+     "name": "Liechtenstein",
+     "qty": 161280.0,
+     "value": 377831.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 5201401.0,
+     "value": 13467991.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 765120.0,
+     "value": 1768752.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 991060.0,
+     "value": 2780239.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "7460": {
+     "name": "Guinea",
+     "qty": 60480.0,
+     "value": 141088.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 3749760.0,
+     "value": 8827008.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 866880.0,
+     "value": 2028664.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 866880.0,
+     "value": 2030839.0
+    }
+   },
+   "qty": 12824141.0,
+   "value": 31801694.0
+  },
+  "2025-06": {
+   "countries": {
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 3091999.0,
+     "value": 7816962.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 301230.0,
+     "value": 646808.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 201600.0,
+     "value": 493920.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 480960.0,
+     "value": 1296349.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "7460": {
+     "name": "Guinea",
+     "qty": 141120.0,
+     "value": 330602.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 1935360.0,
+     "value": 4552834.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 244064.0,
+     "value": 582084.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 685440.0,
+     "value": 1648218.0
+    }
+   },
+   "qty": 7081773.0,
+   "value": 17367777.0
+  },
+  "2025-07": {
+   "countries": {
+    "5490": {
+     "name": "Thailand",
+     "qty": 2396249.0,
+     "value": 5725972.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 100800.0,
+     "value": 230031.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 67080.0,
+     "value": 111284.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 19200.0,
+     "value": 42624.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 1028240.0,
+     "value": 2660357.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 14.0,
+     "value": 2773.0
+    },
+    "7460": {
+     "name": "Guinea",
+     "qty": 665280.0,
+     "value": 1562223.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 846720.0,
+     "value": 1801039.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 1028160.0,
+     "value": 2398182.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 1361440.0,
+     "value": 2862477.0
+    },
+    "7560": {
+     "name": "Chad",
+     "qty": 40680.0,
+     "value": 103543.0
+    },
+    "7650": {
+     "name": "Liberia",
+     "qty": 201600.0,
+     "value": 453379.0
+    }
+   },
+   "qty": 7755758.0,
+   "value": 17955236.0
+  },
+  "2025-08": {
+   "countries": {
+    "4759": {
+     "name": "Italy",
+     "qty": 36.0,
+     "value": 950.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 4082234.0,
+     "value": 9965026.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 752644.0,
+     "value": 1185017.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 1625184.0,
+     "value": 4087721.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 445.0,
+     "value": 1633.0
+    },
+    "7460": {
+     "name": "Guinea",
+     "qty": 221760.0,
+     "value": 463111.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 3162112.0,
+     "value": 6573200.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 966978.0,
+     "value": 2043108.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 745920.0,
+     "value": 1558154.0
+    }
+   },
+   "qty": 11557313.0,
+   "value": 25877920.0
+  },
+  "2025-09": {
+   "countries": {
+    "4280": {
+     "name": "Germany",
+     "qty": 13.0,
+     "value": 2016.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 5377696.0,
+     "value": 13173551.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 563220.0,
+     "value": 1135779.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 40000.0,
+     "value": 98188.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 1560896.0,
+     "value": 3849686.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 2.0,
+     "value": 363.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 3729600.0,
+     "value": 7509514.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 624960.0,
+     "value": 1286818.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 887040.0,
+     "value": 1831848.0
+    },
+    "7650": {
+     "name": "Liberia",
+     "qty": 40320.0,
+     "value": 67334.0
+    }
+   },
+   "qty": 12823747.0,
+   "value": 28955097.0
+  },
+  "2025-10": {
+   "countries": {
+    "5490": {
+     "name": "Thailand",
+     "qty": 2382239.0,
+     "value": 5823411.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 364800.0,
+     "value": 709834.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 19200.0,
+     "value": 41184.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 590963.0,
+     "value": 1539065.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "7460": {
+     "name": "Guinea",
+     "qty": 544320.0,
+     "value": 1091296.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 967680.0,
+     "value": 1908105.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 262080.0,
+     "value": 527621.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 524160.0,
+     "value": 1056286.0
+    }
+   },
+   "qty": 5655442.0,
+   "value": 12696802.0
+  },
+  "2025-11": {
+   "countries": {
+    "4280": {
+     "name": "Germany",
+     "qty": 10.0,
+     "value": 403.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 4102075.0,
+     "value": 10139397.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 963900.0,
+     "value": 1967137.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 201600.0,
+     "value": 451584.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5590": {
+     "name": "Singapore",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 567360.0,
+     "value": 1430017.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 83.0,
+     "value": 256.0
+    },
+    "7460": {
+     "name": "Guinea",
+     "qty": 362880.0,
+     "value": 736611.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 3588480.0,
+     "value": 7284955.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 504000.0,
+     "value": 1028096.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 826560.0,
+     "value": 1667462.0
+    }
+   },
+   "qty": 11116948.0,
+   "value": 24705918.0
+  },
+  "2025-12": {
+   "countries": {
+    "4280": {
+     "name": "Germany",
+     "qty": 76.0,
+     "value": 4772.0
+    },
+    "4759": {
+     "name": "Italy",
+     "qty": 113.0,
+     "value": 3432.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 4939776.0,
+     "value": 11778388.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 263360.0,
+     "value": 524685.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 100800.0,
+     "value": 218232.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 19200.0,
+     "value": 41646.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 531300.0,
+     "value": 1381282.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 343.0,
+     "value": 1800.0
+    },
+    "7460": {
+     "name": "Guinea",
+     "qty": 40320.0,
+     "value": 82866.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 3487680.0,
+     "value": 7152539.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 483840.0,
+     "value": 987771.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 322560.0,
+     "value": 656022.0
+    }
+   },
+   "qty": 10189368.0,
+   "value": 22833435.0
+  },
+  "2026-01": {
+   "countries": {
+    "4280": {
+     "name": "Germany",
+     "qty": 47.0,
+     "value": 2016.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 4124228.0,
+     "value": 9640083.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 199680.0,
+     "value": 400775.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 221760.0,
+     "value": 578794.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 594900.0,
+     "value": 1339117.0
+    },
+    "7460": {
+     "name": "Guinea",
+     "qty": 161280.0,
+     "value": 329100.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 2278080.0,
+     "value": 4760142.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 1028160.0,
+     "value": 2104859.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 987840.0,
+     "value": 1974971.0
+    }
+   },
+   "qty": 9595975.0,
+   "value": 21129857.0
+  },
+  "2026-02": {
+   "countries": {
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 3515744.0,
+     "value": 8168719.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 141120.0,
+     "value": 288389.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 239600.0,
+     "value": 507308.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 19200.0,
+     "value": 41376.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 773188.0,
+     "value": 2004709.0
+    },
+    "7460": {
+     "name": "Guinea",
+     "qty": 20160.0,
+     "value": 41616.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 2076480.0,
+     "value": 4348067.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 383040.0,
+     "value": 788224.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 504000.0,
+     "value": 1052783.0
+    }
+   },
+   "qty": 7672532.0,
+   "value": 17241191.0
+  },
+  "2026-03": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 2.0,
+     "value": 1354.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 17.0,
+     "value": 2171.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 4841513.0,
+     "value": 11157177.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 200340.0,
+     "value": 417809.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 100800.0,
+     "value": 216720.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 605220.0,
+     "value": 1546011.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 41.0,
+     "value": 623.0
+    },
+    "7460": {
+     "name": "Guinea",
+     "qty": 161280.0,
+     "value": 329285.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 5544000.0,
+     "value": 11614034.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 483840.0,
+     "value": 1014242.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 463680.0,
+     "value": 971550.0
+    }
+   },
+   "qty": 12400733.0,
+   "value": 27270976.0
+  },
+  "2026-04": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 2253438.0,
+     "value": 5224635.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 604800.0,
+     "value": 1278389.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 239600.0,
+     "value": 516380.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 19200.0,
+     "value": 43392.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 177960.0,
+     "value": 436115.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 274.0,
+     "value": 6010.0
+    },
+    "7460": {
+     "name": "Guinea",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 3788640.0,
+     "value": 7997715.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 806400.0,
+     "value": 1672069.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 0.0,
+     "value": 0.0
+    }
+   },
+   "qty": 7890312.0,
+   "value": 17174705.0
+  },
+  "2026-05": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 74.0,
+     "value": 3208.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 5267903.0,
+     "value": 12427847.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 602280.0,
+     "value": 1289872.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 201600.0,
+     "value": 457632.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 19200.0,
+     "value": 48576.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 706980.0,
+     "value": 1764898.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "7460": {
+     "name": "Guinea",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 2861280.0,
+     "value": 6174167.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 1008000.0,
+     "value": 2122974.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 0.0,
+     "value": 0.0
+    }
+   },
+   "qty": 10667317.0,
+   "value": 24289174.0
+  },
+  "2026-06": {
+   "countries": {
+    "4759": {
+     "name": "Italy",
+     "qty": 36.0,
+     "value": 1274.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 3920506.0,
+     "value": 9626691.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 79260.0,
+     "value": 172909.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 201600.0,
+     "value": 512064.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 1046473.0,
+     "value": 2567639.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "7460": {
+     "name": "Guinea",
+     "qty": 100800.0,
+     "value": 211861.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 3074320.0,
+     "value": 6628399.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 1391040.0,
+     "value": 2977955.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 684000.0,
+     "value": 1486170.0
+    },
+    "7910": {
+     "name": "South Africa",
+     "qty": 70.0,
+     "value": 652.0
+    }
+   },
+   "qty": 10498105.0,
+   "value": 24185614.0
+  },
+  "2026-07": {
+   "countries": {
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 3644863.0,
+     "value": 9542332.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 199380.0,
+     "value": 464247.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 778800.0,
+     "value": 2046165.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "7460": {
+     "name": "Guinea",
+     "qty": 60480.0,
+     "value": 131133.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 221760.0,
+     "value": 481159.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 846720.0,
+     "value": 1836282.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 1532160.0,
+     "value": 3322030.0
+    },
+    "7650": {
+     "name": "Liberia",
+     "qty": 30848.0,
+     "value": 61673.0
+    }
+   },
+   "qty": 7315011.0,
+   "value": 17885021.0
+  },
+  "2026-08": {
+   "countries": {
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 4322947.0,
+     "value": 12058109.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 141120.0,
+     "value": 355141.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 241920.0,
+     "value": 631411.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 654540.0,
+     "value": 1896553.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "7460": {
+     "name": "Guinea",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "7490": {
+     "name": "Ghana",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "7530": {
+     "name": "Nigeria",
+     "qty": 141120.0,
+     "value": 305976.0
+    },
+    "7650": {
+     "name": "Liberia",
+     "qty": 81478.0,
+     "value": 178191.0
+    }
+   },
+   "qty": 5583125.0,
+   "value": 15425381.0
+  },
+  "2026-09": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 15005.0,
+     "value": 66472.0
+    },
+    "4759": {
+     "name": "Italy",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 4532482.0,
+     "value": 13841095.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 503520.0,
+     "value": 1291938.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 19200.0,
+     "value": 52224.0
+    },
+    "5600": {
+     "name": "Indonesia",
+     "qty": 359700.0,
+     "value": 1150764.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "7460": {
+     "name": "Guinea",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "7480": {
+     "name": "Cote D'Ivoire",
+     "qty": 40320.0,
+     "value": 93744.0
+    },
+    "7650": {
+     "name": "Liberia",
+     "qty": 0.0,
+     "value": 0.0
+    }
+   },
+   "qty": 5470227.0,
+   "value": 16496237.0
+  }
+ },
+ "unit": "KG"
+}

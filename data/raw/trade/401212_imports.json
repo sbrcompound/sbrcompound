@@ -1852,11 +1852,6 @@
      "qty": 0.0,
      "value": 18123.0
     },
-    "2010": {
-     "name": "Mexico",
-     "qty": 0.0,
-     "value": 0.0
-    },
     "3330": {
      "name": "Peru",
      "qty": 0.0,
@@ -1867,30 +1862,25 @@
      "qty": 0.0,
      "value": 49202.0
     },
-    "4120": {
-     "name": "United Kingdom",
-     "qty": 0.0,
-     "value": 0.0
-    },
-    "4231": {
-     "name": "Belgium",
-     "qty": 0.0,
-     "value": 0.0
-    },
-    "4280": {
-     "name": "Germany",
-     "qty": 0.0,
-     "value": 0.0
-    },
-    "4759": {
-     "name": "Italy",
-     "qty": 0.0,
-     "value": 0.0
-    },
     "5330": {
      "name": "India",
      "qty": 0.0,
      "value": 89130.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5570": {
+     "name": "Malaysia",
+     "qty": 0.0,
+     "value": 0.0
     },
     "5700": {
      "name": "China",
@@ -1906,6 +1896,16 @@
      "name": "Hong Kong",
      "qty": 0.0,
      "value": 19600.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 0.0
     }
    },
    "qty": 0.0,
@@ -1918,11 +1918,6 @@
      "qty": 0.0,
      "value": 52512.0
     },
-    "2010": {
-     "name": "Mexico",
-     "qty": 0.0,
-     "value": 0.0
-    },
     "3330": {
      "name": "Peru",
      "qty": 0.0,
@@ -1933,28 +1928,23 @@
      "qty": 0.0,
      "value": 14115.0
     },
-    "4120": {
-     "name": "United Kingdom",
-     "qty": 0.0,
-     "value": 0.0
-    },
-    "4231": {
-     "name": "Belgium",
-     "qty": 0.0,
-     "value": 0.0
-    },
-    "4280": {
-     "name": "Germany",
-     "qty": 0.0,
-     "value": 0.0
-    },
-    "4759": {
-     "name": "Italy",
-     "qty": 0.0,
-     "value": 0.0
-    },
     "5330": {
      "name": "India",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5570": {
+     "name": "Malaysia",
      "qty": 0.0,
      "value": 0.0
     },
@@ -1967,6 +1957,16 @@
      "name": "Korea, South",
      "qty": 0.0,
      "value": 70720.0
+    },
+    "5820": {
+     "name": "Hong Kong",
+     "qty": 0.0,
+     "value": 0.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 0.0
     },
     "5880": {
      "name": "Japan",
