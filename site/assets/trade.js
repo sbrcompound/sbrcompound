@@ -41,6 +41,17 @@
         h("td", { class: "num" }, c.qty > 0 ? big(c.qty) + (unit ? " " + unit : "") : "—"), h("td", { class: "num" }, c.share_pct.toFixed(1) + "%"));
       tb.appendChild(tr);
     });
+    if (d.ports && d.ports.rows.length) {
+      $("ports-sec").hidden = false;
+      const [a, b] = d.ports.months;
+      $("ports-h").textContent = (d.flow === "exports" ? "Top U.S. export ports, " : "Top U.S. entry ports, ") + (a === b ? month(a) : month(a) + " to " + month(b));
+      const pb = $("ports");
+      d.ports.rows.forEach(r => {
+        const tr = h("tr");
+        tr.append(h("td", {}, r.name), h("td", { class: "num" }, "$" + big(r.value)), h("td", { class: "num" }, r.share_pct.toFixed(1) + "%"));
+        pb.appendChild(tr);
+      });
+    }
   }).catch(() => {
     $("sub").textContent = "No data yet for this material. Census figures appear after the first monthly update.";
     $("partners").innerHTML = "";

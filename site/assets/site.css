@@ -236,3 +236,4 @@ tr.link-row a:hover { text-decoration: underline; }
 .trade-table .c-qty { width: 12%; } .trade-table .c-chg { width: 13%; } .trade-table .c-uv { width: 12%; } .trade-table .c-spark { width: 9%; }
 main.wrap > h2:first-child { margin-top: 8px; }
 .spark { width: 100%; max-width: 96px; }
+.group-note { margin: 4px 0 10px; }

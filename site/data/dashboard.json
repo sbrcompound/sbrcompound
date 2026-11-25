@@ -4438,7 +4438,7 @@
    "strength_30d_pct": -1.92
   }
  },
- "generated": "2026-11-25T04:09:05Z",
+ "generated": "2026-11-25T05:27:15Z",
  "jobs": {
   "fx": {
    "at": "2026-11-25T01:36:42Z",
@@ -7205,7 +7205,50 @@
       "value": 1674677.0
      }
     ],
-    "name": "My market"
+    "name": "My market",
+    "note": null
+   },
+   {
+    "lines": [
+     {
+      "flow": "exports",
+      "hts": "4005.10.00",
+      "id": "x-compound-4005-10",
+      "label": "Compound with carbon black or silica"
+     },
+     {
+      "flow": "exports",
+      "hts": "4005.91.00",
+      "id": "x-sheet-4005-91",
+      "label": "Compound in plates, sheets and strip"
+     },
+     {
+      "flow": "exports",
+      "hts": "4005.99.00",
+      "id": "x-compound-4005-99",
+      "label": "Compound, other primary forms"
+     },
+     {
+      "flow": "exports",
+      "hts": "4006.90.00",
+      "id": "x-forms-4006-90",
+      "label": "Other unvulcanized shapes and articles"
+     },
+     {
+      "flow": "exports",
+      "hts": "5902",
+      "id": "x-cordfabric-5902",
+      "label": "Tire cord fabric, incl. rubber-dipped"
+     },
+     {
+      "flow": "exports",
+      "hts": "5906",
+      "id": "x-rubberized-5906",
+      "label": "Rubberized textile fabrics"
+     }
+    ],
+    "name": "Uncured compound and tire materials",
+    "note": "U.S. exports. Census doesn't separate these by grade (Grade A vs mixed) or by plant source; scrap of any of them is reported under 4004.00.00 above."
    },
    {
     "lines": [
@@ -7450,7 +7493,8 @@
       "value": 38201237.0
      }
     ],
-    "name": "Virgin rubber"
+    "name": "Virgin rubber",
+    "note": null
    },
    {
     "lines": [
@@ -7677,7 +7721,8 @@
       "value": 23619517.0
      }
     ],
-    "name": "Fillers and chemicals"
+    "name": "Fillers and chemicals",
+    "note": null
    },
    {
     "lines": [
@@ -8237,7 +8282,8 @@
       "value": 2019336.0
      }
     ],
-    "name": "Tires"
+    "name": "Tires",
+    "note": null
    }
   ]
  }

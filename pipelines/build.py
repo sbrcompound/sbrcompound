@@ -9,7 +9,7 @@ import os
 import statistics
 
 from marketdata import months as M
-from marketdata import store
+from marketdata import census, store
 
 from .run import RAW, ROOT, load_config, raw
 
@@ -51,7 +51,7 @@ def daily_block(series, keep=365):
 
 def combine(line):
     """Sum several Census codes into one line, month by month (only months every code reports)."""
-    parts = [store.load(raw(os.path.join("trade", f"{c}_{line['flow']}.json"))) for c in line["codes"]]
+    parts = [store.load(raw(os.path.join("trade", f"{census.file_key(c)}_{line['flow']}.json"))) for c in line["codes"]]
     if not all(parts):
         return None, None
     unit = parts[0].get("unit")
@@ -103,6 +103,21 @@ def trade_line(line):
              for c in data[last]["countries"].values()],
             key=lambda c: -c["value"])[:10],
     }
+    if line.get("ports"):
+        ports = store.load(raw(os.path.join("trade", f"ports_{line['ports']}_{line['flow']}.json")))
+        pm = (ports or {}).get("months", {})
+        if pm:
+            recent = sorted(pm)[-3:]
+            tot = {}
+            for m in recent:
+                for name, v in pm[m].items():
+                    tot[name] = tot.get(name, 0.0) + v
+            all_v = sum(tot.values()) or 1
+            detail["ports"] = {
+                "months": [recent[0], recent[-1]],
+                "rows": [{"name": n, "value": v, "share_pct": round(v / all_v * 100, 1)}
+                         for n, v in sorted(tot.items(), key=lambda kv: -kv[1])[:10]],
+            }
     return summary, detail
 
 
@@ -154,7 +169,7 @@ def build():
                 store.save(os.path.join(SITE_DATA, "trade", f"{line['id']}.json"), detail)
             else:
                 rows.append({k: line[k] for k in ("id", "label", "hts", "flow")})
-        groups.append({"name": g["name"], "lines": rows})
+        groups.append({"name": g["name"], "note": g.get("note"), "lines": rows})
 
     items = store.load(raw("news.json"), [])
     cutoff = (_dt.datetime.now(_dt.timezone.utc) - _dt.timedelta(days=30)).isoformat()[:19]

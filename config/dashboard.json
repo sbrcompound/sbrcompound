@@ -43,7 +43,8 @@
           "codes": [
             "4004000000"
           ],
-          "countries": true
+          "countries": true,
+          "ports": "400400"
         },
         {
           "id": "reclaim-4003",
@@ -58,6 +59,73 @@
       ]
     },
     {
+      "name": "Uncured compound and tire materials",
+      "note": "U.S. exports. Census doesn't separate these by grade (Grade A vs mixed) or by plant source; scrap of any of them is reported under 4004.00.00 above.",
+      "lines": [
+        {
+          "id": "x-compound-4005-10",
+          "label": "Compound with carbon black or silica",
+          "hts": "4005.10.00",
+          "flow": "exports",
+          "codes": [
+            "4005100000"
+          ],
+          "countries": true,
+          "ports": "400510"
+        },
+        {
+          "id": "x-sheet-4005-91",
+          "label": "Compound in plates, sheets and strip",
+          "hts": "4005.91.00",
+          "flow": "exports",
+          "codes": [
+            "4005910000"
+          ],
+          "countries": true
+        },
+        {
+          "id": "x-compound-4005-99",
+          "label": "Compound, other primary forms",
+          "hts": "4005.99.00",
+          "flow": "exports",
+          "codes": [
+            "4005990000"
+          ],
+          "countries": true
+        },
+        {
+          "id": "x-forms-4006-90",
+          "label": "Other unvulcanized shapes and articles",
+          "hts": "4006.90.00",
+          "flow": "exports",
+          "codes": [
+            "4006900000"
+          ],
+          "countries": true
+        },
+        {
+          "id": "x-cordfabric-5902",
+          "label": "Tire cord fabric, incl. rubber-dipped",
+          "hts": "5902",
+          "flow": "exports",
+          "codes": [
+            "5902*"
+          ],
+          "countries": true
+        },
+        {
+          "id": "x-rubberized-5906",
+          "label": "Rubberized textile fabrics",
+          "hts": "5906",
+          "flow": "exports",
+          "codes": [
+            "5906*"
+          ],
+          "countries": true
+        }
+      ]
+    },
+    {
       "name": "Virgin rubber",
       "lines": [
         {
@@ -66,7 +134,7 @@
           "hts": "4001.21.00",
           "flow": "imports",
           "codes": [
-            "4001210000"
+            "400121*"
           ],
           "countries": true
         },
@@ -76,7 +144,7 @@
           "hts": "4001.22.00",
           "flow": "imports",
           "codes": [
-            "4001220000"
+            "400122*"
           ],
           "countries": true
         },
@@ -86,7 +154,7 @@
           "hts": "4002.19.00",
           "flow": "imports",
           "codes": [
-            "4002190000"
+            "400219*"
           ],
           "countries": true
         },

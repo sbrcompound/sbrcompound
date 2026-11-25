@@ -74,12 +74,18 @@ def job_trade(cfg):
     for group in cfg["trade_groups"]:
         for line in group["lines"]:
             for code in line["codes"]:
-                f = raw(os.path.join("trade", f"{code}_{line['flow']}.json"))
+                f = raw(os.path.join("trade", f"{census.file_key(code)}_{line['flow']}.json"))
                 try:
                     store.save(f, census.update_series(store.load(f), line["flow"], code, key,
                                                        history_months=cfg["trade_history_months"]))
                 except Exception as err:
                     problems.append(f"{code}: {err}")
+            if line.get("ports"):
+                f = raw(os.path.join("trade", f"ports_{line['ports']}_{line['flow']}.json"))
+                try:
+                    store.save(f, census.update_ports(store.load(f), line["flow"], line["ports"], key))
+                except Exception as err:
+                    problems.append(f"ports {line['ports']}: {err}")
     if problems:
         raise RuntimeError("; ".join(problems))
 

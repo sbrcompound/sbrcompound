@@ -47,6 +47,7 @@
     root.innerHTML = "";
     groups.forEach(g => {
       root.appendChild(h("h3", { class: "group-title" }, g.name));
+      if (g.note) root.appendChild(h("p", { class: "small muted group-note" }, g.note));
       const wrap = h("div", { class: "table-scroll" });
       const t = h("table", { class: "trade-table" });
       t.innerHTML = "<colgroup><col class='c-name'><col class='c-flow'><col class='c-month'><col class='c-qty'><col class='c-chg'><col class='c-uv'><col class='c-spark'></colgroup><thead><tr><th>Material</th><th>Flow</th><th class='num'>Latest month</th><th class='num'>Volume</th><th class='num'>vs 12-mo avg</th><th class='num'>Unit value</th><th class='num'><span class='sr-only'>Trend</span></th></tr></thead>";
