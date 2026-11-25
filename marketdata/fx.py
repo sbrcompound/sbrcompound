@@ -42,23 +42,31 @@ def parse_tcmb(xml_bytes):
     return None
 
 
-def fetch_tcmb_range(start, end, have=None, pause=0.25):
-    """Daily lira rates for dates not already held. Weekends and holidays have no bulletin."""
+def fetch_tcmb_range(start, end, have=None, pause=0.25, checkpoint=None, every=50):
+    """Daily lira rates for dates not already held. Weekends and holidays have no bulletin.
+
+    Newest dates first, so a run cut short still has the recent months; `checkpoint(have)`
+    is called every `every` fetches so progress survives a timeout."""
     have = dict(have or {})
-    day = _dt.date.fromisoformat(start)
-    stop = _dt.date.fromisoformat(end)
-    while day <= stop:
+    day = _dt.date.fromisoformat(end)
+    stop = _dt.date.fromisoformat(start)
+    done = 0
+    while day >= stop:
         iso = day.isoformat()
         if day.weekday() < 5 and iso not in have:
             url = TCMB_DAY_URL.format(ym=day.strftime("%Y%m"), dmy=day.strftime("%d%m%Y"))
             try:
-                rate = parse_tcmb(net.get(url, retries=2))
+                rate = parse_tcmb(net.get(url, timeout=20, retries=1))
                 if rate:
                     have[iso] = rate
             except net.NoData:
                 pass
+            done += 1
+            if checkpoint and done % every == 0:
+                checkpoint(have)
+                print(f"  TCMB: {done} days fetched, back to {iso}", flush=True)
             time.sleep(pause)
-        day += _dt.timedelta(days=1)
+        day -= _dt.timedelta(days=1)
     return have
 
 

@@ -5,6 +5,8 @@ Data appear roughly five weeks after the month ends. Census revises recent
 months; the dashboard refreshes the last few months on every run, while the
 index keeps the snapshot it used when a value was published.
 """
+import time
+
 from . import months as M
 from . import net
 
@@ -77,7 +79,9 @@ def update_series(series, flow, code, api_key=None, history_months=36, refresh_r
     for month in wanted:
         if month in stored and month not in recent:
             continue
+        t0 = time.time()
         got = fetch_month(flow, code, month, api_key)
+        print(f"  {code} {month}: {'ok' if got else 'none'} ({time.time() - t0:.1f}s)", flush=True)
         if got is None:
             continue
         series["unit"] = series["unit"] or got["unit"]
