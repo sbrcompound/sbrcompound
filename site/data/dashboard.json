@@ -7,8 +7,16 @@
    "value": 92.94
   },
   "policy": {
-   "count_30d": 2,
+   "count_30d": 3,
    "latest": [
+    {
+     "category": "Trade policy",
+     "excerpt": "The Society of Motor Manufacturers and Traders (SMMT) has called on the UK government to revise its zero-emission vehicle (ZEV) mandate, keep electric vehicle trade with the EU tariff-free and bring down industrial energy costs. The trade…",
+     "published": "2026-11-25T07:56:40Z",
+     "source": "Tyrepress",
+     "title": "SMMT calls for ZEV mandate reform and tariff-free EV trade with EU",
+     "url": "https://www.tyrepress.com/2026/11/smmt-calls-for-zev-mandate-reform-and-tariff-free-ev-trade-with-eu/"
+    },
     {
      "category": "Trade policy",
      "excerpt": "AAG Expo held at Exhibition Centre, Liverpool, at the start of November, saw Banner use the buying group’s leading aftermarket trade show to tease visitors with its first UK public showing of its new corporate identity.",
@@ -16,14 +24,6 @@
      "source": "Tyrepress",
      "title": "Banner showcases new corporate identity at AAG expo",
      "url": "https://www.tyrepress.com/2026/11/banner-showcases-new-corporate-identity-at-aag-expo/"
-    },
-    {
-     "category": "Trade policy",
-     "excerpt": "US-based Molten Industries, an industrial manufacturing start-up, has announced the commissioning of a demonstration plant in Oakland, California, US, to mark what it says is the world’s first plant to produce battery-grade graphite from…",
-     "published": "2026-11-19T05:30:51Z",
-     "source": "Rubber Journal Asia",
-     "title": "Molten’s graphite-from-natural gas plant to reduce dependency on Chinese imports",
-     "url": "https://rubberjournalasia.com/moltens-graphite-from-natural-gas-plant-to-reduce-dependency-on-chinese-imports/"
     }
    ]
   },
@@ -4438,14 +4438,14 @@
    "strength_30d_pct": -1.92
   }
  },
- "generated": "2026-11-25T07:25:26Z",
+ "generated": "2026-11-25T10:16:35Z",
  "jobs": {
   "fx": {
    "at": "2026-11-25T01:36:42Z",
    "ok": true
   },
   "news": {
-   "at": "2026-11-25T07:25:25Z",
+   "at": "2026-11-25T10:16:35Z",
    "ok": true
   },
   "oil": {
