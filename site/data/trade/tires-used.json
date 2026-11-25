@@ -1,0 +1,282 @@
+{
+ "countries": [
+  {
+   "name": "Japan",
+   "qty": 0.0,
+   "share_pct": 29.1,
+   "value": 531349.0
+  },
+  {
+   "name": "Canada",
+   "qty": 0.0,
+   "share_pct": 17.3,
+   "value": 314929.0
+  },
+  {
+   "name": "Thailand",
+   "qty": 0.0,
+   "share_pct": 15.1,
+   "value": 275197.0
+  },
+  {
+   "name": "Germany",
+   "qty": 0.0,
+   "share_pct": 8.3,
+   "value": 151606.0
+  },
+  {
+   "name": "Spain",
+   "qty": 0.0,
+   "share_pct": 5.8,
+   "value": 106203.0
+  },
+  {
+   "name": "France",
+   "qty": 0.0,
+   "share_pct": 5.2,
+   "value": 94548.0
+  },
+  {
+   "name": "Korea, South",
+   "qty": 0.0,
+   "share_pct": 3.5,
+   "value": 63434.0
+  },
+  {
+   "name": "United Kingdom",
+   "qty": 0.0,
+   "share_pct": 3.1,
+   "value": 57259.0
+  },
+  {
+   "name": "China",
+   "qty": 0.0,
+   "share_pct": 3.0,
+   "value": 54521.0
+  },
+  {
+   "name": "Netherlands",
+   "qty": 0.0,
+   "share_pct": 1.9,
+   "value": 35266.0
+  }
+ ],
+ "flow": "imports",
+ "hts": "4012.20",
+ "id": "tires-used",
+ "label": "Used tires",
+ "latest_month": "2026-09",
+ "months": [
+  {
+   "month": "2023-11",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 3411072.0
+  },
+  {
+   "month": "2023-12",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 3158296.0
+  },
+  {
+   "month": "2024-01",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 4267585.0
+  },
+  {
+   "month": "2024-02",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 3126391.0
+  },
+  {
+   "month": "2024-03",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 3288375.0
+  },
+  {
+   "month": "2024-04",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 3001793.0
+  },
+  {
+   "month": "2024-05",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 3227481.0
+  },
+  {
+   "month": "2024-06",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 2724291.0
+  },
+  {
+   "month": "2024-07",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 3480162.0
+  },
+  {
+   "month": "2024-08",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 2671471.0
+  },
+  {
+   "month": "2024-09",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 2624738.0
+  },
+  {
+   "month": "2024-10",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 2847009.0
+  },
+  {
+   "month": "2024-11",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 2858306.0
+  },
+  {
+   "month": "2024-12",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 3025953.0
+  },
+  {
+   "month": "2025-01",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 3466940.0
+  },
+  {
+   "month": "2025-02",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 2560356.0
+  },
+  {
+   "month": "2025-03",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 2523208.0
+  },
+  {
+   "month": "2025-04",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 2762739.0
+  },
+  {
+   "month": "2025-05",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 2117609.0
+  },
+  {
+   "month": "2025-06",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 2242225.0
+  },
+  {
+   "month": "2025-07",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 1976835.0
+  },
+  {
+   "month": "2025-08",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 1878452.0
+  },
+  {
+   "month": "2025-09",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 2193304.0
+  },
+  {
+   "month": "2025-10",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 1839484.0
+  },
+  {
+   "month": "2025-11",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 1730405.0
+  },
+  {
+   "month": "2025-12",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 1680434.0
+  },
+  {
+   "month": "2026-01",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 1971314.0
+  },
+  {
+   "month": "2026-02",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 1687809.0
+  },
+  {
+   "month": "2026-03",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 2182371.0
+  },
+  {
+   "month": "2026-04",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 2124157.0
+  },
+  {
+   "month": "2026-05",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 2141703.0
+  },
+  {
+   "month": "2026-06",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 2520722.0
+  },
+  {
+   "month": "2026-07",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 2112860.0
+  },
+  {
+   "month": "2026-08",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 1844620.0
+  },
+  {
+   "month": "2026-09",
+   "qty": 0.0,
+   "unit_value": null,
+   "value": 1824467.0
+  }
+ ],
+ "unit": "-"
+}

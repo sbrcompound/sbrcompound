@@ -1,0 +1,282 @@
+{
+ "countries": [
+  {
+   "name": "Thailand",
+   "qty": 2874451.0,
+   "share_pct": 48.2,
+   "value": 806888.0
+  },
+  {
+   "name": "Canada",
+   "qty": 799020.0,
+   "share_pct": 41.8,
+   "value": 699765.0
+  },
+  {
+   "name": "Mexico",
+   "qty": 115870.0,
+   "share_pct": 4.9,
+   "value": 82496.0
+  },
+  {
+   "name": "Malaysia",
+   "qty": 214280.0,
+   "share_pct": 3.9,
+   "value": 65099.0
+  },
+  {
+   "name": "Venezuela",
+   "qty": 25701.0,
+   "share_pct": 1.0,
+   "value": 16269.0
+  },
+  {
+   "name": "Colombia",
+   "qty": 7257.0,
+   "share_pct": 0.2,
+   "value": 4160.0
+  },
+  {
+   "name": "India",
+   "qty": 0.0,
+   "share_pct": 0.0,
+   "value": 0.0
+  },
+  {
+   "name": "Pakistan",
+   "qty": 0.0,
+   "share_pct": 0.0,
+   "value": 0.0
+  },
+  {
+   "name": "China",
+   "qty": 0.0,
+   "share_pct": 0.0,
+   "value": 0.0
+  },
+  {
+   "name": "Korea, South",
+   "qty": 0.0,
+   "share_pct": 0.0,
+   "value": 0.0
+  }
+ ],
+ "flow": "exports",
+ "hts": "4003.00.00",
+ "id": "reclaim-4003",
+ "label": "Reclaimed rubber",
+ "latest_month": "2026-09",
+ "months": [
+  {
+   "month": "2023-11",
+   "qty": 5399974.0,
+   "unit_value": 0.4466,
+   "value": 2411822.0
+  },
+  {
+   "month": "2023-12",
+   "qty": 6956896.0,
+   "unit_value": 0.43,
+   "value": 2991365.0
+  },
+  {
+   "month": "2024-01",
+   "qty": 4307746.0,
+   "unit_value": 0.4683,
+   "value": 2017421.0
+  },
+  {
+   "month": "2024-02",
+   "qty": 4585642.0,
+   "unit_value": 0.4576,
+   "value": 2098223.0
+  },
+  {
+   "month": "2024-03",
+   "qty": 3789528.0,
+   "unit_value": 0.4682,
+   "value": 1774274.0
+  },
+  {
+   "month": "2024-04",
+   "qty": 4036289.0,
+   "unit_value": 0.5286,
+   "value": 2133745.0
+  },
+  {
+   "month": "2024-05",
+   "qty": 4722834.0,
+   "unit_value": 0.4537,
+   "value": 2142658.0
+  },
+  {
+   "month": "2024-06",
+   "qty": 4438067.0,
+   "unit_value": 0.5317,
+   "value": 2359715.0
+  },
+  {
+   "month": "2024-07",
+   "qty": 7750893.0,
+   "unit_value": 0.3108,
+   "value": 2408903.0
+  },
+  {
+   "month": "2024-08",
+   "qty": 11041729.0,
+   "unit_value": 0.3319,
+   "value": 3665158.0
+  },
+  {
+   "month": "2024-09",
+   "qty": 10962661.0,
+   "unit_value": 0.2569,
+   "value": 2816148.0
+  },
+  {
+   "month": "2024-10",
+   "qty": 10165810.0,
+   "unit_value": 0.2546,
+   "value": 2588045.0
+  },
+  {
+   "month": "2024-11",
+   "qty": 10265616.0,
+   "unit_value": 0.2602,
+   "value": 2671104.0
+  },
+  {
+   "month": "2024-12",
+   "qty": 6943229.0,
+   "unit_value": 0.3128,
+   "value": 2172026.0
+  },
+  {
+   "month": "2025-01",
+   "qty": 7794185.0,
+   "unit_value": 0.278,
+   "value": 2166883.0
+  },
+  {
+   "month": "2025-02",
+   "qty": 8018926.0,
+   "unit_value": 0.2801,
+   "value": 2245991.0
+  },
+  {
+   "month": "2025-03",
+   "qty": 7317171.0,
+   "unit_value": 0.3368,
+   "value": 2464098.0
+  },
+  {
+   "month": "2025-04",
+   "qty": 5769460.0,
+   "unit_value": 0.3599,
+   "value": 2076357.0
+  },
+  {
+   "month": "2025-05",
+   "qty": 9261918.0,
+   "unit_value": 0.2987,
+   "value": 2766733.0
+  },
+  {
+   "month": "2025-06",
+   "qty": 6916765.0,
+   "unit_value": 0.3347,
+   "value": 2314906.0
+  },
+  {
+   "month": "2025-07",
+   "qty": 6393707.0,
+   "unit_value": 0.2925,
+   "value": 1870441.0
+  },
+  {
+   "month": "2025-08",
+   "qty": 7102979.0,
+   "unit_value": 0.3006,
+   "value": 2134922.0
+  },
+  {
+   "month": "2025-09",
+   "qty": 4549066.0,
+   "unit_value": 0.294,
+   "value": 1337530.0
+  },
+  {
+   "month": "2025-10",
+   "qty": 3682430.0,
+   "unit_value": 0.5225,
+   "value": 1924009.0
+  },
+  {
+   "month": "2025-11",
+   "qty": 3417803.0,
+   "unit_value": 0.4621,
+   "value": 1579354.0
+  },
+  {
+   "month": "2025-12",
+   "qty": 2699260.0,
+   "unit_value": 0.9632,
+   "value": 2599878.0
+  },
+  {
+   "month": "2026-01",
+   "qty": 1858536.0,
+   "unit_value": 0.564,
+   "value": 1048163.0
+  },
+  {
+   "month": "2026-02",
+   "qty": 2007650.0,
+   "unit_value": 0.5815,
+   "value": 1167404.0
+  },
+  {
+   "month": "2026-03",
+   "qty": 3099218.0,
+   "unit_value": 0.5456,
+   "value": 1690827.0
+  },
+  {
+   "month": "2026-04",
+   "qty": 3452981.0,
+   "unit_value": 0.4747,
+   "value": 1639036.0
+  },
+  {
+   "month": "2026-05",
+   "qty": 3328341.0,
+   "unit_value": 0.4892,
+   "value": 1628080.0
+  },
+  {
+   "month": "2026-06",
+   "qty": 3314772.0,
+   "unit_value": 0.4992,
+   "value": 1654762.0
+  },
+  {
+   "month": "2026-07",
+   "qty": 3212684.0,
+   "unit_value": 0.6338,
+   "value": 2036066.0
+  },
+  {
+   "month": "2026-08",
+   "qty": 3109160.0,
+   "unit_value": 0.4856,
+   "value": 1509725.0
+  },
+  {
+   "month": "2026-09",
+   "qty": 4036579.0,
+   "unit_value": 0.4149,
+   "value": 1674677.0
+  }
+ ],
+ "unit": "kg"
+}

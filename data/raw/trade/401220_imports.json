@@ -1,0 +1,2317 @@
+{
+ "code": "401220",
+ "flow": "imports",
+ "months": {
+  "2023-11": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 190064.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 201906.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 213993.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 364209.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 194328.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 160025.0
+    },
+    "5081": {
+     "name": "Israel",
+     "qty": 0.0,
+     "value": 53488.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 228875.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 77924.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 367264.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 34218.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 1190472.0
+    }
+   },
+   "qty": 0.0,
+   "value": 3411072.0
+  },
+  "2023-12": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 139473.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 109898.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 170996.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 67440.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 128805.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 201923.0
+    },
+    "4759": {
+     "name": "Italy",
+     "qty": 0.0,
+     "value": 68110.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 209862.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 209447.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 265574.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 60064.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 1314037.0
+    }
+   },
+   "qty": 0.0,
+   "value": 3158296.0
+  },
+  "2024-01": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 119100.0
+    },
+    "2010": {
+     "name": "Mexico",
+     "qty": 0.0,
+     "value": 377488.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 262831.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 168662.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 157865.0
+    },
+    "4550": {
+     "name": "Poland",
+     "qty": 0.0,
+     "value": 40285.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 200617.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 239263.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 142218.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 470931.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 78314.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 1736179.0
+    }
+   },
+   "qty": 0.0,
+   "value": 4267585.0
+  },
+  "2024-02": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 166569.0
+    },
+    "3510": {
+     "name": "Brazil",
+     "qty": 0.0,
+     "value": 44939.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 82825.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 122907.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 116866.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 169130.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 83484.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 223462.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 178123.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 251659.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 57728.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 1315631.0
+    }
+   },
+   "qty": 0.0,
+   "value": 3126391.0
+  },
+  "2024-03": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 272163.0
+    },
+    "3330": {
+     "name": "Peru",
+     "qty": 0.0,
+     "value": 91350.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 57367.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 231742.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 170849.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 138254.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 212235.0
+    },
+    "4759": {
+     "name": "Italy",
+     "qty": 0.0,
+     "value": 83695.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 146764.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 74038.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 407157.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 1158848.0
+    }
+   },
+   "qty": 0.0,
+   "value": 3288375.0
+  },
+  "2024-04": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 78713.0
+    },
+    "3510": {
+     "name": "Brazil",
+     "qty": 0.0,
+     "value": 32641.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 62086.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 213681.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 101129.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 132557.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 120094.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 175130.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 93061.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 239740.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 42134.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 1509919.0
+    }
+   },
+   "qty": 0.0,
+   "value": 3001793.0
+  },
+  "2024-05": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 258276.0
+    },
+    "3310": {
+     "name": "Ecuador",
+     "qty": 0.0,
+     "value": 54746.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 71306.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 178257.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 148724.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 162203.0
+    },
+    "4759": {
+     "name": "Italy",
+     "qty": 0.0,
+     "value": 62808.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 240874.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 87261.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 404361.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 57408.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 1239717.0
+    }
+   },
+   "qty": 0.0,
+   "value": 3227481.0
+  },
+  "2024-06": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 138554.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 150609.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 115286.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 89746.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 190507.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 174981.0
+    },
+    "5081": {
+     "name": "Israel",
+     "qty": 0.0,
+     "value": 65645.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 206902.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 111564.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 293885.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 104374.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 893416.0
+    }
+   },
+   "qty": 0.0,
+   "value": 2724291.0
+  },
+  "2024-07": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 193935.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 119262.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 215552.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 246054.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 203787.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 162672.0
+    },
+    "5200": {
+     "name": "United Arab Emirates",
+     "qty": 0.0,
+     "value": 53584.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 229333.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 179299.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 277963.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 68669.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 1280477.0
+    }
+   },
+   "qty": 0.0,
+   "value": 3480162.0
+  },
+  "2024-08": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 169572.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 67036.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 129526.0
+    },
+    "4231": {
+     "name": "Belgium",
+     "qty": 0.0,
+     "value": 43200.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 280864.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 197050.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 115613.0
+    },
+    "5081": {
+     "name": "Israel",
+     "qty": 0.0,
+     "value": 48088.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 209249.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 265948.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 55331.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 913399.0
+    }
+   },
+   "qty": 0.0,
+   "value": 2671471.0
+  },
+  "2024-09": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 173326.0
+    },
+    "3510": {
+     "name": "Brazil",
+     "qty": 0.0,
+     "value": 47962.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 45236.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 167067.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 50208.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 125005.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 96920.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 227891.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 164511.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 302263.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 40802.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 986730.0
+    }
+   },
+   "qty": 0.0,
+   "value": 2624738.0
+  },
+  "2024-10": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 290232.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 207944.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 146649.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 85117.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 153745.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 168552.0
+    },
+    "5081": {
+     "name": "Israel",
+     "qty": 0.0,
+     "value": 75648.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 197748.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 97378.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 220845.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 109937.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 811635.0
+    }
+   },
+   "qty": 0.0,
+   "value": 2847009.0
+  },
+  "2024-11": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 144114.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 68519.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 79212.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 59811.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 190173.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 101805.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 238407.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 0.0,
+     "value": 38957.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 117636.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 337737.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 99361.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 1124552.0
+    }
+   },
+   "qty": 0.0,
+   "value": 2858306.0
+  },
+  "2024-12": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 158944.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 140292.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 157119.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 77693.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 201010.0
+    },
+    "4850": {
+     "name": "Romania",
+     "qty": 0.0,
+     "value": 76231.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 211209.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 121968.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 375331.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 112886.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 1003659.0
+    },
+    "6021": {
+     "name": "Australia",
+     "qty": 0.0,
+     "value": 116650.0
+    }
+   },
+   "qty": 0.0,
+   "value": 3025953.0
+  },
+  "2025-01": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 219067.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 140934.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 220703.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 116565.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 302986.0
+    },
+    "4759": {
+     "name": "Italy",
+     "qty": 0.0,
+     "value": 48020.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 241990.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 125912.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 332972.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 114497.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 1322741.0
+    },
+    "6021": {
+     "name": "Australia",
+     "qty": 0.0,
+     "value": 43074.0
+    }
+   },
+   "qty": 0.0,
+   "value": 3466940.0
+  },
+  "2025-02": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 131621.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 75497.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 156680.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 80084.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 180444.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 139815.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 238636.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 62465.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 240128.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 120396.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 847950.0
+    },
+    "6021": {
+     "name": "Australia",
+     "qty": 0.0,
+     "value": 66912.0
+    }
+   },
+   "qty": 0.0,
+   "value": 2560356.0
+  },
+  "2025-03": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 95702.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 89541.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 138278.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 100326.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 248304.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 135134.0
+    },
+    "4850": {
+     "name": "Romania",
+     "qty": 0.0,
+     "value": 197813.0
+    },
+    "5081": {
+     "name": "Israel",
+     "qty": 0.0,
+     "value": 114104.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 272675.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 82599.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 285765.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 559006.0
+    }
+   },
+   "qty": 0.0,
+   "value": 2523208.0
+  },
+  "2025-04": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 143629.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 108090.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 252666.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 301065.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 93694.0
+    },
+    "4759": {
+     "name": "Italy",
+     "qty": 0.0,
+     "value": 115174.0
+    },
+    "4850": {
+     "name": "Romania",
+     "qty": 0.0,
+     "value": 83404.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 100922.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 78087.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 198306.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 82457.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 882805.0
+    }
+   },
+   "qty": 0.0,
+   "value": 2762739.0
+  },
+  "2025-05": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 120149.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 98997.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 88133.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 56635.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 209670.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 158085.0
+    },
+    "4759": {
+     "name": "Italy",
+     "qty": 0.0,
+     "value": 40964.0
+    },
+    "5081": {
+     "name": "Israel",
+     "qty": 0.0,
+     "value": 47880.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 221492.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 55721.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 302929.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 546452.0
+    }
+   },
+   "qty": 0.0,
+   "value": 2117609.0
+  },
+  "2025-06": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 233905.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 68385.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 74462.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 29526.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 185812.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 156833.0
+    },
+    "4759": {
+     "name": "Italy",
+     "qty": 0.0,
+     "value": 61461.0
+    },
+    "5081": {
+     "name": "Israel",
+     "qty": 0.0,
+     "value": 46512.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 335397.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 219664.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 54823.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 651959.0
+    }
+   },
+   "qty": 0.0,
+   "value": 2242225.0
+  },
+  "2025-07": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 130846.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 68996.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 40315.0
+    },
+    "4231": {
+     "name": "Belgium",
+     "qty": 0.0,
+     "value": 44820.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 42887.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 177466.0
+    },
+    "4550": {
+     "name": "Poland",
+     "qty": 0.0,
+     "value": 35837.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 157364.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 276681.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 0.0,
+     "value": 42018.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 269505.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 493561.0
+    }
+   },
+   "qty": 0.0,
+   "value": 1976835.0
+  },
+  "2025-08": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 255910.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 60576.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 115884.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 19244.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 141053.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 163419.0
+    },
+    "4759": {
+     "name": "Italy",
+     "qty": 0.0,
+     "value": 31716.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 255175.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 21015.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 110659.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 120005.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 494958.0
+    }
+   },
+   "qty": 0.0,
+   "value": 1878452.0
+  },
+  "2025-09": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 294469.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 50296.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 118630.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 47193.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 221274.0
+    },
+    "4351": {
+     "name": "Czech Republic",
+     "qty": 0.0,
+     "value": 47411.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 128807.0
+    },
+    "4759": {
+     "name": "Italy",
+     "qty": 0.0,
+     "value": 259550.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 286695.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 59849.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 149017.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 385235.0
+    }
+   },
+   "qty": 0.0,
+   "value": 2193304.0
+  },
+  "2025-10": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 283913.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 69885.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 126945.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 17958.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 188470.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 82494.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 180024.0
+    },
+    "5550": {
+     "name": "Cambodia",
+     "qty": 0.0,
+     "value": 38780.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 39372.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 190621.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 46582.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 487402.0
+    }
+   },
+   "qty": 0.0,
+   "value": 1839484.0
+  },
+  "2025-11": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 298893.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 43032.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 79520.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 39828.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 132488.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 113256.0
+    },
+    "4759": {
+     "name": "Italy",
+     "qty": 0.0,
+     "value": 31389.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 223537.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 33685.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 102691.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 36318.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 545936.0
+    }
+   },
+   "qty": 0.0,
+   "value": 1730405.0
+  },
+  "2025-12": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 130844.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 104447.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 91349.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 152019.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 154588.0
+    },
+    "4759": {
+     "name": "Italy",
+     "qty": 0.0,
+     "value": 57123.0
+    },
+    "5081": {
+     "name": "Israel",
+     "qty": 0.0,
+     "value": 38088.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 150693.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 32226.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 165474.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 470361.0
+    },
+    "6021": {
+     "name": "Australia",
+     "qty": 0.0,
+     "value": 20521.0
+    }
+   },
+   "qty": 0.0,
+   "value": 1680434.0
+  },
+  "2026-01": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 186500.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 62137.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 117002.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 54598.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 131004.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 147942.0
+    },
+    "5081": {
+     "name": "Israel",
+     "qty": 0.0,
+     "value": 57096.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 209662.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 68066.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 202978.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 44169.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 589787.0
+    }
+   },
+   "qty": 0.0,
+   "value": 1971314.0
+  },
+  "2026-02": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 257098.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 37241.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 30553.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 22611.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 173079.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 123934.0
+    },
+    "5081": {
+     "name": "Israel",
+     "qty": 0.0,
+     "value": 44705.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 189494.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 66105.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 147566.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 42686.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 473884.0
+    }
+   },
+   "qty": 0.0,
+   "value": 1687809.0
+  },
+  "2026-03": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 250440.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 48289.0
+    },
+    "4190": {
+     "name": "Ireland",
+     "qty": 0.0,
+     "value": 31680.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 56917.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 131149.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 154976.0
+    },
+    "4759": {
+     "name": "Italy",
+     "qty": 0.0,
+     "value": 44998.0
+    },
+    "5081": {
+     "name": "Israel",
+     "qty": 0.0,
+     "value": 33448.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 256262.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 107247.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 235813.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 677183.0
+    }
+   },
+   "qty": 0.0,
+   "value": 2182371.0
+  },
+  "2026-04": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 229328.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 54551.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 57293.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 30390.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 179053.0
+    },
+    "4550": {
+     "name": "Poland",
+     "qty": 0.0,
+     "value": 55934.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 145662.0
+    },
+    "4759": {
+     "name": "Italy",
+     "qty": 0.0,
+     "value": 45448.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 209212.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 66822.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 215020.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 699566.0
+    }
+   },
+   "qty": 0.0,
+   "value": 2124157.0
+  },
+  "2026-05": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 217188.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 110350.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 76883.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 28751.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 130036.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 139301.0
+    },
+    "4759": {
+     "name": "Italy",
+     "qty": 0.0,
+     "value": 71750.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 215935.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 82945.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 160045.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 47659.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 781355.0
+    }
+   },
+   "qty": 0.0,
+   "value": 2141703.0
+  },
+  "2026-06": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 377300.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 76194.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 95824.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 43705.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 177266.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 205927.0
+    },
+    "4759": {
+     "name": "Italy",
+     "qty": 0.0,
+     "value": 34121.0
+    },
+    "5081": {
+     "name": "Israel",
+     "qty": 0.0,
+     "value": 38760.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 286141.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 98128.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 211857.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 729298.0
+    }
+   },
+   "qty": 0.0,
+   "value": 2520722.0
+  },
+  "2026-07": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 247769.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 102855.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 104641.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 33225.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 158936.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 178528.0
+    },
+    "4759": {
+     "name": "Italy",
+     "qty": 0.0,
+     "value": 39582.0
+    },
+    "5081": {
+     "name": "Israel",
+     "qty": 0.0,
+     "value": 32148.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 238956.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 84890.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 246218.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 554368.0
+    }
+   },
+   "qty": 0.0,
+   "value": 2112860.0
+  },
+  "2026-08": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 220810.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 60186.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 47735.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 32428.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 229069.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 152254.0
+    },
+    "4759": {
+     "name": "Italy",
+     "qty": 0.0,
+     "value": 48762.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 283510.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 43336.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 140872.0
+    },
+    "5830": {
+     "name": "Taiwan",
+     "qty": 0.0,
+     "value": 21044.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 478299.0
+    }
+   },
+   "qty": 0.0,
+   "value": 1844620.0
+  },
+  "2026-09": {
+   "countries": {
+    "1220": {
+     "name": "Canada",
+     "qty": 0.0,
+     "value": 314929.0
+    },
+    "4120": {
+     "name": "United Kingdom",
+     "qty": 0.0,
+     "value": 57259.0
+    },
+    "4210": {
+     "name": "Netherlands",
+     "qty": 0.0,
+     "value": 35266.0
+    },
+    "4279": {
+     "name": "France",
+     "qty": 0.0,
+     "value": 94548.0
+    },
+    "4280": {
+     "name": "Germany",
+     "qty": 0.0,
+     "value": 151606.0
+    },
+    "4700": {
+     "name": "Spain",
+     "qty": 0.0,
+     "value": 106203.0
+    },
+    "5081": {
+     "name": "Israel",
+     "qty": 0.0,
+     "value": 25080.0
+    },
+    "5490": {
+     "name": "Thailand",
+     "qty": 0.0,
+     "value": 275197.0
+    },
+    "5520": {
+     "name": "Vietnam",
+     "qty": 0.0,
+     "value": 16223.0
+    },
+    "5700": {
+     "name": "China",
+     "qty": 0.0,
+     "value": 54521.0
+    },
+    "5800": {
+     "name": "Korea, South",
+     "qty": 0.0,
+     "value": 63434.0
+    },
+    "5880": {
+     "name": "Japan",
+     "qty": 0.0,
+     "value": 531349.0
+    }
+   },
+   "qty": 0.0,
+   "value": 1824467.0
+  }
+ },
+ "unit": "-"
+}
