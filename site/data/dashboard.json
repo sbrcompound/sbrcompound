@@ -7,8 +7,16 @@
    "value": 92.94
   },
   "policy": {
-   "count_30d": 3,
+   "count_30d": 4,
    "latest": [
+    {
+     "category": "Trade policy",
+     "excerpt": "The European Commission will impose temporary quotas on imports of certain new hybrid passenger vehicles from 1 December 2026 to 18 June 2027 inclusive. The measure covers full hybrids, plug-in hybrids and mild hybrids designed to carry up…",
+     "published": "2026-11-25T14:18:58Z",
+     "source": "Tyrepress",
+     "title": "EU hybrid vehicle quotas to cover UK exports",
+     "url": "https://www.tyrepress.com/2026/11/eu-hybrid-vehicle-quotas-to-cover-uk-exports/"
+    },
     {
      "category": "Trade policy",
      "excerpt": "The Society of Motor Manufacturers and Traders (SMMT) has called on the UK government to revise its zero-emission vehicle (ZEV) mandate, keep electric vehicle trade with the EU tariff-free and bring down industrial energy costs. The trade…",
@@ -16,14 +24,6 @@
      "source": "Tyrepress",
      "title": "SMMT calls for ZEV mandate reform and tariff-free EV trade with EU",
      "url": "https://www.tyrepress.com/2026/11/smmt-calls-for-zev-mandate-reform-and-tariff-free-ev-trade-with-eu/"
-    },
-    {
-     "category": "Trade policy",
-     "excerpt": "AAG Expo held at Exhibition Centre, Liverpool, at the start of November, saw Banner use the buying group’s leading aftermarket trade show to tease visitors with its first UK public showing of its new corporate identity.",
-     "published": "2026-11-24T16:34:33Z",
-     "source": "Tyrepress",
-     "title": "Banner showcases new corporate identity at AAG expo",
-     "url": "https://www.tyrepress.com/2026/11/banner-showcases-new-corporate-identity-at-aag-expo/"
     }
    ]
   },
@@ -4438,14 +4438,14 @@
    "strength_30d_pct": -1.92
   }
  },
- "generated": "2026-11-25T13:25:35Z",
+ "generated": "2026-11-25T16:13:50Z",
  "jobs": {
   "fx": {
    "at": "2026-11-25T01:36:42Z",
    "ok": true
   },
   "news": {
-   "at": "2026-11-25T13:25:35Z",
+   "at": "2026-11-25T16:13:50Z",
    "ok": true
   },
   "oil": {
