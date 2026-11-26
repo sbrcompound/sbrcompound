@@ -219,3 +219,11 @@ main.wrap > h2:first-child { margin-top: 8px; }
 /* On the near-white page, white panels get a hairline edge so they still read as panels. */
 .factors, .chart-block, .table-scroll, .news, .form, .chips button { border: 1px solid var(--rule); }
 .chart-block, .form { border-top-width: 6px; }
+/* Light top panel, by request */
+.slab { background: var(--surface); color: var(--ink); border-bottom: 1px solid var(--rule); }
+.slab h1, .slab .asof, .index-meta, .outlook-text.pending { color: var(--muted); }
+.index-name, .index-value.pending { color: var(--ink); }
+.index-value { color: var(--carbon); }
+.slab a { color: var(--link); }
+.index-meta .up { color: var(--up); }
+.index-meta .down { color: var(--down); }
