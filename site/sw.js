@@ -1,6 +1,6 @@
 /* Offline support: pages and assets from cache first; data from the network first,
    falling back to the last copy saved on the device. */
-const VERSION = "sbr-v5";
+const VERSION = "sbr-v6";
 const SHELL = ["/", "/markets.html", "/trade.html", "/news.html", "/alerts.html", "/privacy.html",
   "/assets/site.css", "/assets/app.js", "/assets/chart.js", "/assets/home.js", "/assets/markets.js",
   "/assets/trade.js", "/assets/news.js", "/assets/alerts.js", "/assets/fonts/archivo-latin-wdth-normal.woff2",

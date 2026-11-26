@@ -7,9 +7,10 @@
 }
 
 /* The batch card: carbon slabs, marking yellow, and five chalk stripes,
-   one per market force. A force keeps its stripe color on every page. */
+   one per market force. A force keeps its stripe color on every page.
+   Light only, by request: the site no longer follows the phone's dark mode. */
 :root {
-  --page: #e6e7e2;
+  --page: #f7f7f4;
   --surface: #ffffff;
   --carbon: #22201d;
   --carbon-2: #2e2b27;
@@ -17,7 +18,7 @@
   --carbon-muted: #aaa59b;
   --ink: #22201d;
   --muted: #615d55;
-  --rule: #d3d3cd;
+  --rule: #e0e0da;
   --yellow: #f2b300;
   --yellow-ink: #8a6200;
   --c-scrap: #e0a400;
@@ -29,36 +30,12 @@
   --down: #b8361f;
   --link: #1f4fb3;
   --chart-line: var(--carbon);
-  --chart-grid: #e6e6e1;
+  --chart-grid: #ecece7;
   --tabbar-h: 0px;
   --wide: 125%;
   --narrow: 75%;
   color-scheme: light;
 }
-@media (prefers-color-scheme: dark) {
-  :root {
-    --page: #171614;
-    --surface: #211f1c;
-    --carbon: #0f0e0d;
-    --carbon-2: #1b1a17;
-    --ink: #eeece7;
-    --muted: #a9a49a;
-    --rule: #37342f;
-    --yellow-ink: #f2b300;
-    --c-scrap: #f2b300;
-    --c-virgin: #4cbf80;
-    --c-fx: #6f98f0;
-    --c-energy: #f06c52;
-    --c-policy: #a888f0;
-    --up: #5fcf8e;
-    --down: #ff8a73;
-    --link: #8fb0ff;
-    --chart-line: var(--ink);
-    --chart-grid: #2e2c28;
-    color-scheme: dark;
-  }
-}
-
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
 body {
@@ -239,3 +216,6 @@ main.wrap > h2:first-child { margin-top: 8px; }
 .group-note { margin: 4px 0 10px; }
 .chart-block.grade { --c: var(--c-scrap); }
 #grades-sec .table-scroll { margin-top: 16px; }
+/* On the near-white page, white panels get a hairline edge so they still read as panels. */
+.factors, .chart-block, .table-scroll, .news, .form, .chips button { border: 1px solid var(--rule); }
+.chart-block, .form { border-top-width: 6px; }
