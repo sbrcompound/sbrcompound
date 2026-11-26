@@ -1,6 +1,6 @@
 {
  "fx": {
-  "at": "2026-11-25T23:29:37Z",
+  "at": "2026-11-26T23:38:13Z",
   "ok": true,
   "warnings": []
  },
@@ -12,9 +12,10 @@
   ]
  },
  "oil": {
-  "at": "2026-11-25T23:28:25Z",
-  "ok": true,
-  "warnings": []
+  "at": "2026-11-26T23:36:57Z",
+  "error": "Gave up on https://api.eia.gov/v2/petroleum/pri/spt/data/?api_key=%2A%2A%2A&frequency=daily&data%5B0%5D=value&facets%5Bseries%5D%5B%5D=RBRTE&facets%5Bseries%5D%5B%5D=RWTC&start=2025-10-22&sort%5B0%5D%5Bcolumn%5D=period&sort%5B0%5D%5Bdirection%5D=asc&length=5000: The read operation timed out",
+  "last_ok": "2026-11-25T23:28:25Z",
+  "ok": false
  },
  "trade": {
   "at": "2026-11-25T05:46:32Z",
