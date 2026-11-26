@@ -5,9 +5,11 @@
   "warnings": []
  },
  "news": {
-  "at": "2026-11-26T10:14:44Z",
+  "at": "2026-11-26T13:24:39Z",
   "ok": true,
-  "warnings": []
+  "warnings": [
+   "Rubber Journal Asia: Gave up on https://rubberjournalasia.com/feed/: HTTP Error 503: Service Temporarily Unavailable"
+  ]
  },
  "oil": {
   "at": "2026-11-25T23:28:25Z",
