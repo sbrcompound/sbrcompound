@@ -7,8 +7,16 @@
    "value": 91.8
   },
   "policy": {
-   "count_30d": 4,
+   "count_30d": 5,
    "latest": [
+    {
+     "category": "Trade policy",
+     "excerpt": "The organisers of Autopromotec 2027 have accelerated their international promotional campaign, targeting high-growth automotive aftermarket regions to attract global buyers and industry leaders to next year’s Bologna trade show.",
+     "published": "2026-11-27T06:00:53Z",
+     "source": "Tyrepress",
+     "title": "Autopromotec ramps up global outreach ahead of 2027 exhibition",
+     "url": "https://www.tyrepress.com/2026/11/autopromotec-ramps-up-global-outreach-ahead-of-2027-exhibition/"
+    },
     {
      "category": "Trade policy",
      "excerpt": "The European Commission will impose temporary quotas on imports of certain new hybrid passenger vehicles from 1 December 2026 to 18 June 2027 inclusive. The measure covers full hybrids, plug-in hybrids and mild hybrids designed to carry up…",
@@ -16,14 +24,6 @@
      "source": "Tyrepress",
      "title": "EU hybrid vehicle quotas to cover UK exports",
      "url": "https://www.tyrepress.com/2026/11/eu-hybrid-vehicle-quotas-to-cover-uk-exports/"
-    },
-    {
-     "category": "Trade policy",
-     "excerpt": "The Society of Motor Manufacturers and Traders (SMMT) has called on the UK government to revise its zero-emission vehicle (ZEV) mandate, keep electric vehicle trade with the EU tariff-free and bring down industrial energy costs. The trade…",
-     "published": "2026-11-25T07:56:40Z",
-     "source": "Tyrepress",
-     "title": "SMMT calls for ZEV mandate reform and tariff-free EV trade with EU",
-     "url": "https://www.tyrepress.com/2026/11/smmt-calls-for-zev-mandate-reform-and-tariff-free-ev-trade-with-eu/"
     }
    ]
   },
@@ -4434,14 +4434,14 @@
    "strength_30d_pct": -1.75
   }
  },
- "generated": "2026-11-27T04:07:25Z",
+ "generated": "2026-11-27T07:23:28Z",
  "jobs": {
   "fx": {
    "at": "2026-11-26T23:38:13Z",
    "ok": true
   },
   "news": {
-   "at": "2026-11-27T04:07:25Z",
+   "at": "2026-11-27T07:23:28Z",
    "ok": true
   },
   "oil": {
